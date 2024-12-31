@@ -1,0 +1,1259 @@
+area_type,availability,location,size(in BHK),total_sqft,per_Sqft,bath,furnishing,transaction,parking,price
+Builder_Floor,Ready_to_move,Rohini Sector 25,3,800,,2,Semi-Furnished,New_Property,1,6500000
+Apartment,Ready_to_move,"J R Designers Floors, Rohini Sector 24",2,750,6667,2,Semi-Furnished,New_Property,1,5000000
+Apartment,Ready_to_move,"Citizen Apartment, Rohini Sector 13",2,950,6667,2,Furnished,Resale,1,15500000
+Builder_Floor,Ready_to_move,Rohini Sector 24,2,600,6667,2,Semi-Furnished,Resale,1,4200000
+Builder_Floor,Ready_to_move,Rohini Sector 24 ,2,650,6667,2,Semi-Furnished,New_Property,1,6200000
+Builder_Floor,Ready_to_move,Rohini Sector 24,4,1300,6667,3,Semi-Furnished,New_Property,1,15500000
+Builder_Floor,Ready_to_move,Rohini Sector 24,4,1350,6667,3,Semi-Furnished,Resale,1,10000000
+Apartment,Ready_to_move,"Delhi Homes, Rohini Sector 24",2,650,6154,2,Semi-Furnished,New_Property,1,4000000
+Builder_Floor,Almost_ready,Rohini Sector 21,3,985,6154,3,Unfurnished,New_Property,1,6800000
+Builder_Floor,Ready_to_move,Rohini Sector 22,4,1300,6154,4,Semi-Furnished,New_Property,1,15000000
+Builder_Floor,Ready_to_move,Rohini Sector 20,3,1100,6154,2,Semi-Furnished,New_Property,1,6200000
+Builder_Floor,Ready_to_move,Rohini Sector 25,3,870,6154,2,Semi-Furnished,New_Property,1,7700000
+Builder_Floor,Ready_to_move,Rohini Sector 24,2,630,6154,2,Semi-Furnished,New_Property,1,5500000
+Builder_Floor,Ready_to_move,Rohini Sector 24,2,660,6154,2,Semi-Furnished,Resale,1,5000000
+Builder_Floor,Ready_to_move,Rohini Sector 8 ,2,344.4448,6154,2,Semi-Furnished,Resale,1,3310000
+Builder_Floor,Ready_to_move,Rohini Sector 25 ,2,660,6154,2,Semi-Furnished,New_Property,1,4700000
+Builder_Floor,Ready_to_move,Rohini Sector 22,2,550,6154,2,Semi-Furnished,New_Property,1,4500000
+Builder_Floor,Ready_to_move,Rohini Sector 16,4,1100,6154,3,Semi-Furnished,New_Property,1,17000000
+Apartment,Ready_to_move,Rohini Sector 14,3,1150,6154,3,Semi-Furnished,Resale,1,25000000
+Builder_Floor,Ready_to_move,Rohini Sector 24,2,650,6154,2,Semi-Furnished,Resale,1,6000000
+Apartment,Ready_to_move,"Mayur Apartment, Rohini Sector 9",2,850,6154,2,Semi-Furnished,Resale,1,11000000
+Builder_Floor,Ready_to_move,"Vijay Vihar, Rohini",3,900,6154,2,Semi-Furnished,Resale,5,4500000
+Apartment,Ready_to_move,Rohini Sector 18 ,1,430.556,6154,1,Furnished,Resale,2,5300000
+Apartment,Ready_to_move,"Prashant Vihar, Rohini",2,900,6154,2,Semi-Furnished,Resale,1,10500000
+Builder_Floor,Ready_to_move,Rohini Sector 5,2,914.9315,6154,2,Semi-Furnished,Resale,1,12000000
+Builder_Floor,Ready_to_move,Rohini Sector 20,3,1100,6364,3,Furnished,New_Property,1,7000000
+Builder_Floor,Ready_to_move,Rohini Sector 25,3,800,8750,2,Semi-Furnished,Resale,1,7000000
+Apartment,Ready_to_move,"Sanskriti Apartment, Rohini Sector 28",1,500,8750,1,Semi-Furnished,Resale,1,3400000
+Apartment,Ready_to_move,Rohini Sector 25,2,28,8750,2,Furnished,New_Property,1,5000000
+Builder_Floor,Ready_to_move,Rohini Sector 19,4,2160,9722,4,Furnished,New_Property,1,21000000
+Apartment,Ready_to_move,Lajpat Nagar 2,1,1500,,,Unfurnished,Resale,,13500000
+Builder_Floor,Ready_to_move,Lajpat Nagar 1,2,800,,2,Unfurnished,New_Property,1,15000000
+Builder_Floor,Ready_to_move,Lajpat Nagar,2,900,,2,Unfurnished,New_Property,1,10500000
+Builder_Floor,Ready_to_move,"Vikram Vihar, Lajpat Nagar",3,1080,,2,Semi-Furnished,New_Property,1,22500000
+Builder_Floor,Ready_to_move,Lajpat Nagar 4,2,750,,2,Unfurnished,New_Property,1,13600000
+Builder_Floor,Ready_to_move,Lajpat Nagar 3,3,1450,,3,Semi-Furnished,New_Property,2,30000000
+Apartment,Ready_to_move,Lajpat Nagar,2,900,,2,Semi-Furnished,New_Property,1,13500000
+Builder_Floor,Ready_to_move,"Dayanand Colony, Lajpat Nagar",2,810,,2,Semi-Furnished,Resale,1,8910000
+Apartment,Ready_to_move,Lajpat Nagar,3,1350,,4,Unfurnished,Resale,1,25000000
+Builder_Floor,Ready_to_move,Lajpat Nagar 2,3,1710,,3,Semi-Furnished,New_Property,4,26000000
+Builder_Floor,Ready_to_move,Lajpat Nagar,3,1650,,3,Semi-Furnished,Resale,1,30000000
+Builder_Floor,Ready_to_move,Lajpat Nagar,2,1280,,2,Furnished,Resale,1,12500000
+Builder_Floor,Ready_to_move,Lajpat Nagar 3,3,1260,,3,Semi-Furnished,Resale,1,21000000
+Builder_Floor,Ready_to_move,Lajpat Nagar 4,2,1130,,2,Unfurnished,Resale,1,7800000
+Builder_Floor,Ready_to_move,"Amar Colony, Lajpat Nagar",2,600,,2,Semi-Furnished,New_Property,1,11500000
+Builder_Floor,Ready_to_move,Lajpat Nagar 1,2,850,,2,Semi-Furnished,Resale,1,11500000
+Builder_Floor,Ready_to_move,Lajpat Nagar 2,3,1500,,3,Semi-Furnished,New_Property,2,26000000
+Builder_Floor,Ready_to_move,"Amar Colony, Lajpat Nagar",2,900,14444,2,Semi-Furnished,New_Property,2,13000000
+Builder_Floor,Ready_to_move,"Vikram Vihar, Lajpat Nagar",3,1000,22000,3,Semi-Furnished,New_Property,1,22000000
+Builder_Floor,Ready_to_move,Lajpat Nagar 2,2,900,22000,2,Semi-Furnished,New_Property,1,15800000
+Builder_Floor,Ready_to_move,Lajpat Nagar 3,4,2925,22000,4,Unfurnished,New_Property,2,57500000
+Builder_Floor,Ready_to_move,Lajpat Nagar 1,2,900,22000,2,Unfurnished,Resale,2,10000000
+Builder_Floor,Ready_to_move,Lajpat Nagar 3,3,1600,22000,3,Unfurnished,New_Property,2,30000000
+Builder_Floor,Ready_to_move,"Vikram Vihar, Lajpat Nagar",3,1143,22000,3,Unfurnished,New_Property,2,22000000
+Builder_Floor,Ready_to_move,"Vikram Vihar, Lajpat Nagar",3,1150,22000,3,Semi-Furnished,New_Property,2,24000000
+Builder_Floor,Ready_to_move,Lajpat Nagar 3,3,1500,22000,3,Semi-Furnished,Resale,1,31500000
+Builder_Floor,Ready_to_move,Lajpat Nagar 2,2,850,22000,2,Semi-Furnished,Resale,1,14600000
+Builder_Floor,Ready_to_move,Lajpat Nagar,4,8000,22000,5,Semi-Furnished,New_Property,1,240000000
+Builder_Floor,Ready_to_move,Lajpat Nagar 1,2,890,22000,2,Semi-Furnished,Resale,1,8300000
+Builder_Floor,Ready_to_move,"Vikram Vihar, Lajpat Nagar",3,1100,22000,3,Unfurnished,New_Property,1,22500000
+Apartment,Ready_to_move,"DDA Flats Sector 14, Dwarka Sector 14",1,750,,1,Furnished,Resale,2,4600000
+Apartment,Ready_to_move,"Siddhartha Heights, Dwarka Sector 24",2,850,2235,1,Semi-Furnished,New_Property,2,1900000
+Apartment,Ready_to_move,"MTNL Employees House Welfare Society, Dwarka Sector 24",3,1350,3800,2,Unfurnished,New_Property,1,5130000
+Apartment,Ready_to_move,"Delhi Homes Yojana, Dwarka Sector 24",4,1387,4247,4,Unfurnished,New_Property,1,5890000
+Apartment,Ready_to_move,"The Elite Spire, Dwarka Sector 21",3,1050,3524,2,Unfurnished,New_Property,1,3700000
+Apartment,Ready_to_move,"Kunj Vihar Apartment, Dwarka Sector 12",3,1500,3524,2,Unfurnished,Resale,1,17400000
+Apartment,Ready_to_move,"Ashirwad Apartments, Dwarka Sector 12",3,1200,3524,3,Semi-Furnished,Resale,1,15500000
+Apartment,Almost_ready,"MTNL Employees House Welfare Society, Dwarka Sector 24",2,700,3524,1,Semi-Furnished,New_Property,1,2400000
+Apartment,Ready_to_move,"Sunny Valley Apartments, Dwarka",3,1700,3524,2,Semi-Furnished,Resale,1,17200000
+Apartment,Ready_to_move,"Shri Agrasen Apartment, Dwarka Sector 7",3,1550,3524,2,Furnished,Resale,2,14200000
+Apartment,Ready_to_move,"Chopra Apartment, Dwarka Sector 23",3,1400,3524,3,Semi-Furnished,Resale,1,13500000
+Apartment,Ready_to_move,"Mohinder Apartments, Dwarka Sector 12",4,1900,3524,4,Semi-Furnished,Resale,1,30000000
+Apartment,Ready_to_move,"Chander Lok Apartment, Dwarka Sector 19",4,2160,3524,3,Unfurnished,Resale,1,21000000
+Apartment,Ready_to_move,"Neelachal, Dwarka Sector 5",4,1700,3524,3,Unfurnished,Resale,1,20500000
+Apartment,Ready_to_move,Dwarka,3,1850,3524,4,Semi-Furnished,Resale,1,24000000
+Apartment,Ready_to_move,"MeeraBai Apartment, Dwarka Sector 5",4,1800,3524,2,Semi-Furnished,Resale,1,16500000
+Apartment,Ready_to_move,"Crescent Apartments, Dwarka Sector 18",3,1620,3524,2,Semi-Furnished,Resale,1,14900000
+Apartment,Ready_to_move,"Ashoka Enclave Apartment, Dwarka Sector 11",4,1800,3524,3,Furnished,Resale,1,19200000
+Apartment,Ready_to_move,"Nav Kairali Apartment, Dwarka Sector 3",3,1540,3524,3,Semi-Furnished,Resale,1,14500000
+Apartment,Ready_to_move,"Ashirwad Apartments, Dwarka",3,1600,3524,3,Semi-Furnished,Resale,1,15600000
+Apartment,Ready_to_move,"Indraprastha Apartment, Dwarka Sector 12",3,1400,3524,2,Unfurnished,Resale,1,11400000
+Apartment,Ready_to_move,"Mohinder Apartments, Dwarka",4,2300,3524,4,Furnished,Resale,1,31500000
+Apartment,Ready_to_move,"Ashoka Apartments, Dwarka Sector 12",3,1560,3524,2,Furnished,Resale,2,15800000
+Apartment,Ready_to_move,"Karuna Vihar Apartment, Dwarka",3,1500,3524,3,Semi-Furnished,Resale,2,16000000
+Apartment,Ready_to_move,"Nav Kairali Apartment, Dwarka Sector 3",3,1540,3524,3,Semi-Furnished,Resale,1,14500000
+Apartment,Ready_to_move,"LNT Apartments, Dwarka",2,1050,3524,2,Unfurnished,Resale,1,10500000
+Apartment,Ready_to_move,Dwarka Sector 4,3,1800,3524,2,Semi-Furnished,Resale,1,14800000
+Builder_Floor,Ready_to_move,Dwarka Sector 3,1,400,3524,1,Semi-Furnished,New_Property,1,1850000
+Builder_Floor,Ready_to_move,Dwarka Sector 16B,3,1150,3524,2,Semi-Furnished,New_Property,1,6800000
+Apartment,Ready_to_move,"Chopra Apartment, Dwarka Sector 23",3,1525,3524,3,Semi-Furnished,Resale,1,14200000
+Builder_Floor,Ready_to_move,Lajpat Nagar 3,1,900,,1,Semi-Furnished,Resale,,8900000
+Builder_Floor,Ready_to_move,Lajpat Nagar 3,3,1450,,3,Semi-Furnished,New_Property,2,37500000
+Builder_Floor,Ready_to_move,Lajpat Nagar 3,3,1450,,3,Semi-Furnished,New_Property,2,30000000
+Builder_Floor,Ready_to_move,Lajpat Nagar 3,3,1260,,3,Semi-Furnished,Resale,2,21000000
+Builder_Floor,Ready_to_move,Lajpat Nagar 3,4,2925,,4,Unfurnished,New_Property,2,57500000
+Builder_Floor,Ready_to_move,Lajpat Nagar 3,3,1710,,3,Semi-Furnished,Resale,1,30000000
+Builder_Floor,Ready_to_move,Lajpat Nagar 3,3,1600,,3,Unfurnished,New_Property,1,30000000
+Builder_Floor,Ready_to_move,Lajpat Nagar 3,3,1500,,3,Semi-Furnished,Resale,1,31500000
+Builder_Floor,Ready_to_move,Lajpat Nagar 3,3,2200,,3,Unfurnished,Resale,1,30000000
+Builder_Floor,Ready_to_move,Lajpat Nagar 3,3,1350,,3,Unfurnished,New_Property,1,41500000
+Builder_Floor,Ready_to_move,Lajpat Nagar 3,3,1710,,3,Semi-Furnished,Resale,1,24800000
+Builder_Floor,Ready_to_move,Lajpat Nagar 3,3,1350,,3,Semi-Furnished,Resale,2,35000000
+Builder_Floor,Ready_to_move,Lajpat Nagar 3,3,1500,26666,3,Semi-Furnished,Resale,1,40000000
+Builder_Floor,Ready_to_move,Lajpat Nagar 3,4,2880,15972,5,Unfurnished,New_Property,1,46000000
+Builder_Floor,Ready_to_move,Lajpat Nagar 3,4,2700,183333,4,Semi-Furnished,Resale,2,55000000
+Builder_Floor,Ready_to_move,Lajpat Nagar 3,3,1400,183333,3,Unfurnished,Resale,1,24500000
+Apartment,Ready_to_move,Lajpat Nagar 3,3,1800,183333,3,Unfurnished,Resale,1,24500000
+Builder_Floor,Ready_to_move,Lajpat Nagar 3,3,1400,183333,3,Semi-Furnished,New_Property,1,32500000
+Apartment,Ready_to_move,Lajpat Nagar 3,2,1000,20000,2,Furnished,Resale,1,20000000
+Builder_Floor,Ready_to_move,Lajpat Nagar,4,8000,20000,5,Semi-Furnished,New_Property,1,240000000
+Apartment,Ready_to_move,Lajpat Nagar 3,2,1000,20000,2,Furnished,Resale,1,20000000
+Builder_Floor,Ready_to_move,Lajpat Nagar 3,3,1700,20000,3,Furnished,Resale,2,19000000
+Builder_Floor,Ready_to_move,Lajpat Nagar 3,3,1600,20000,3,Unfurnished,Resale,2,26000000
+Builder_Floor,Ready_to_move,Lajpat Nagar 3,3,1350,15556,3,Unfurnished,Resale,1,21000000
+Builder_Floor,Ready_to_move,Lajpat Nagar 3,3,1700,16176,3,Semi-Furnished,Resale,1,27500000
+Builder_Floor,Ready_to_move,Lajpat Nagar 3,3,1400,16176,3,Semi-Furnished,New_Property,2,32500000
+Builder_Floor,Ready_to_move,Lajpat Nagar 3,3,1450,16176,3,Semi-Furnished,New_Property,1,45000000
+Builder_Floor,Ready_to_move,Lajpat Nagar 3,3,1350,15556,3,Semi-Furnished,Resale,1,21000000
+Builder_Floor,Ready_to_move,Lajpat Nagar 3,3,1700,15556,3,Unfurnished,Resale,1,28000000
+Builder_Floor,Ready_to_move,Lajpat Nagar 3,3,1600,15556,3,Unfurnished,Resale,2,29500000
+Apartment,Ready_to_move,Lajpat Nagar 2,1,1500,,,Unfurnished,Resale,,13500000
+Builder_Floor,Ready_to_move,Lajpat Nagar 2,2,800,,2,Unfurnished,New_Property,1,14000000
+Builder_Floor,Ready_to_move,Lajpat Nagar 2,3,1710,,3,Semi-Furnished,New_Property,4,26000000
+Builder_Floor,Ready_to_move,Lajpat Nagar 2,2,1350,9259,2,Furnished,Resale,4,12500000
+Builder_Floor,Ready_to_move,Lajpat Nagar 2,3,1500,9259,3,Semi-Furnished,New_Property,2,26000000
+Builder_Floor,Ready_to_move,"Vinoba Puri, Lajpat Nagar",2,750,9259,2,Semi-Furnished,New_Property,2,11500000
+Builder_Floor,Ready_to_move,Lajpat Nagar 2,2,850,9259,2,Semi-Furnished,Resale,2,14600000
+Builder_Floor,Ready_to_move,Lajpat Nagar 2,3,1575,9259,3,Semi-Furnished,New_Property,1,25500000
+Builder_Floor,Ready_to_move,Lajpat Nagar 2,3,1675,18507,3,Semi-Furnished,New_Property,2,31000000
+Builder_Floor,Ready_to_move,Lajpat Nagar 2,3,1350,18507,3,Semi-Furnished,Resale,2,22000000
+Builder_Floor,Ready_to_move,Lajpat Nagar 2,2,900,18507,2,Semi-Furnished,New_Property,2,13400000
+Builder_Floor,Almost_ready,Lajpat Nagar 2,3,1800,18507,3,Semi-Furnished,New_Property,2,35000000
+Builder_Floor,Ready_to_move,Lajpat Nagar 2,2,900,18507,2,Furnished,Resale,2,11000000
+Builder_Floor,Ready_to_move,"Vinoba Puri, Lajpat Nagar",2,900,7000,2,Unfurnished,Resale,2,6300000
+Builder_Floor,Ready_to_move,Lajpat Nagar 2,2,900,7000,2,Furnished,Resale,2,12500000
+Builder_Floor,Ready_to_move,Lajpat Nagar 2,2,800,7000,2,Unfurnished,New_Property,1,14500000
+Builder_Floor,Ready_to_move,Lajpat Nagar 2,2,1100,7000,3,Semi-Furnished,New_Property,1,22500000
+Builder_Floor,Ready_to_move,Lajpat Nagar 2,2,810,7000,2,Semi-Furnished,New_Property,1,15500000
+Builder_Floor,Ready_to_move,Lajpat Nagar 2,3,1500,7000,3,Semi-Furnished,New_Property,1,26000000
+Builder_Floor,Ready_to_move,Lajpat Nagar 2,2,900,7000,2,Semi-Furnished,New_Property,1,15800000
+Builder_Floor,Ready_to_move,Lajpat Nagar 2,2,825,7000,2,Unfurnished,New_Property,1,15000000
+Builder_Floor,Ready_to_move,Lajpat Nagar 2,2,900,7000,2,Unfurnished,New_Property,1,13000000
+Builder_Floor,Ready_to_move,Lajpat Nagar 2,2,875,7000,2,Unfurnished,New_Property,1,15000000
+Builder_Floor,Ready_to_move,Lajpat Nagar 2,3,1350,7000,3,Semi-Furnished,New_Property,1,25000000
+Builder_Floor,Ready_to_move,Lajpat Nagar 2,2,750,7000,2,Semi-Furnished,New_Property,1,16500000
+Builder_Floor,Ready_to_move,Lajpat Nagar 2,2,900,7000,2,Unfurnished,New_Property,1,10300000
+Builder_Floor,Ready_to_move,Lajpat Nagar 2,3,1350,7000,3,Semi-Furnished,New_Property,1,26000000
+Builder_Floor,Ready_to_move,Lajpat Nagar 2,2,900,7000,2,Unfurnished,Resale,1,11000000
+Builder_Floor,Ready_to_move,Lajpat Nagar 2,3,1800,7000,3,Unfurnished,New_Property,1,28500000
+Builder_Floor,Ready_to_move,Lajpat Nagar 2,2,900,7000,2,Unfurnished,Resale,1,11000000
+Apartment,Ready_to_move,Budh Vihar,2,900,,1,Furnished,Resale,1,11000000
+Builder_Floor,Ready_to_move,Budh Vihar,3,810,,2,Semi-Furnished,Resale,1,4500000
+Builder_Floor,Ready_to_move,Budh Vihar,2,450,72000,1,Unfurnished,Resale,1,3600000
+Builder_Floor,Ready_to_move,Budh Vihar Phase 1,3,100,43000,2,Furnished,New_Property,1,4300000
+Builder_Floor,Ready_to_move,Budh Vihar,3,900,4444,2,Semi-Furnished,Resale,1,4000000
+Apartment,Ready_to_move,Budh Vihar Phase 1,2,500,3300,2,Semi-Furnished,Resale,1,1650000
+Builder_Floor,Ready_to_move,Budh Vihar,1,450,4444,1,Furnished,Resale,1,2000000
+Builder_Floor,Ready_to_move,Budh Vihar,2,75,40000,2,Semi-Furnished,Resale,1,3000000
+Apartment,Ready_to_move,Budh Vihar Phase 1,2,270,5185,1,Semi-Furnished,Resale,1,1400000
+Builder_Floor,Ready_to_move,Budh Vihar Phase 1,2,500,4000,1,Semi-Furnished,Resale,1,2000000
+Apartment,Ready_to_move,Budh Vihar Phase 1,2,444,4000,2,Unfurnished,Resale,1,2000000
+Builder_Floor,Ready_to_move,Budh Vihar,1,400,4000,1,Furnished,Resale,1,2000000
+Builder_Floor,Ready_to_move,Budh Vihar,3,729,3567,4,Furnished,Resale,1,2600000
+Builder_Floor,Ready_to_move,Budh Vihar Phase 1,6,4050,1259,3,Furnished,Resale,1,5100000
+Builder_Floor,Ready_to_move,Budh Vihar Phase 2,6,2400,2500,4,Furnished,Resale,1,6000000
+Builder_Floor,Ready_to_move,Budh Vihar,2,450,2500,2,Furnished,Resale,1,4000000
+Builder_Floor,Ready_to_move,Budh Vihar Phase 2,2,405,2500,3,Furnished,Resale,1,6200000
+Builder_Floor,Ready_to_move,Budh Vihar Phase 1,1,666,5255,2,Furnished,Resale,1,3500000
+Apartment,Ready_to_move,"Saptrishi Apartment, Rohini Sector 23",2,1000,5255,2,Semi-Furnished,Resale,1,7600000
+Builder_Floor,Ready_to_move,Rohini Sector 24,4,1360,5255,3,Semi-Furnished,New_Property,1,13500000
+Builder_Floor,Ready_to_move,Rohini Sector 24,4,1550,5255,3,Semi-Furnished,New_Property,1,12500000
+Builder_Floor,Ready_to_move,Rohini Sector 23,3,850,5255,2,Semi-Furnished,New_Property,1,6500000
+Builder_Floor,Ready_to_move,Rohini Sector 23,4,2170,5255,4,Unfurnished,New_Property,2,22000000
+Builder_Floor,Ready_to_move,Rohini Sector 23,3,720,5255,2,Semi-Furnished,New_Property,1,6000000
+Builder_Floor,Ready_to_move,Rohini Sector 23,3,850,5255,2,Semi-Furnished,New_Property,1,7300000
+Builder_Floor,Ready_to_move,Rohini Sector 23,3,950,5255,2,Semi-Furnished,New_Property,1,7600000
+Builder_Floor,Ready_to_move,Rohini Sector 23,4,2300,5255,4,Semi-Furnished,New_Property,1,20000000
+Builder_Floor,Ready_to_move,Rohini Sector 22,4,1300,5255,4,Semi-Furnished,New_Property,1,15000000
+Builder_Floor,Ready_to_move,Rohini Sector 20,3,1100,5255,2,Semi-Furnished,New_Property,1,6200000
+Builder_Floor,Ready_to_move,Rohini Sector 20,3,1030,5255,2,Furnished,New_Property,1,6200000
+Builder_Floor,Ready_to_move,"Rohini ( 1 km from Shahbad Dairy, Rohini)",1,350,,1,Semi-Furnished,New_Property,1,2300000
+Apartment,Ready_to_move,"J R Designers Floors, Rohini Sector 24",2,750,6667,2,Semi-Furnished,New_Property,1,5000000
+Apartment,Ready_to_move,"J R Designers Floors, Rohini Sector 24",2,720,6528,2,Semi-Furnished,New_Property,1,4700000
+Apartment,Ready_to_move,"J R Designers Floors, Rohini Sector 24",2,800,6875,2,Semi-Furnished,New_Property,1,5500000
+Apartment,Ready_to_move,"J R Designers Floors, Rohini Sector 24",1,350,5714,1,Semi-Furnished,New_Property,1,2000000
+Apartment,Ready_to_move,"J R Designers Floors, Rohini Sector 24",3,980,7449,2,Semi-Furnished,New_Property,1,7300000
+Apartment,Ready_to_move,"J R Designers Floors, Rohini Sector 24",4,1600,8125,3,Semi-Furnished,New_Property,1,13000000
+Apartment,Ready_to_move,"J R Designers Floors, Rohini Sector 24",3,1450,7931,3,Semi-Furnished,New_Property,1,11500000
+Apartment,Ready_to_move,"J R Designers Floors, Rohini Sector 24",2,445,7931,2,Semi-Furnished,New_Property,1,2800000
+Apartment,Ready_to_move,"J R Designers Floors, Rohini Sector 24",1,380,5789,1,Semi-Furnished,New_Property,1,2200000
+Apartment,Ready_to_move,"J R Designers Floors, Rohini Sector 24",2,680,6471,2,Semi-Furnished,New_Property,1,4400000
+Apartment,Ready_to_move,"J R Designers Floors, Rohini Sector 24",3,1600,8438,3,Semi-Furnished,New_Property,1,13500000
+Apartment,Ready_to_move,"J R Designers Floors, Rohini Sector 24",2,630,6508,2,Semi-Furnished,New_Property,1,4100000
+Apartment,Ready_to_move,"J R Designers Floors, Rohini Sector 24",3,1500,8000,2,Semi-Furnished,New_Property,1,12000000
+Apartment,Ready_to_move,"J R Designers Floors, Rohini Sector 24",2,550,6364,2,Semi-Furnished,New_Property,1,3500000
+Apartment,Ready_to_move,"J R Designers Floors, Rohini Sector 24",4,2500,6000,3,Semi-Furnished,New_Property,1,15000000
+Apartment,Ready_to_move,"J R Designers Floors, Rohini Sector 24",5,2800,6250,4,Semi-Furnished,New_Property,1,17500000
+Apartment,Ready_to_move,"J R Designers Floors, Rohini Sector 24",1,300,6333,1,Semi-Furnished,New_Property,1,1900000
+Apartment,Ready_to_move,"J R Designers Floors, Rohini Sector 24",3,800,6875,2,Semi-Furnished,New_Property,1,5500000
+Apartment,Ready_to_move,"J R Designers Floors, Rohini Sector 24",3,1295,6875,2,Semi-Furnished,New_Property,1,10000000
+Apartment,Ready_to_move,"J R Designers Floors, Rohini Sector 24",3,700,6714,2,Semi-Furnished,New_Property,1,4700000
+Builder_Floor,Ready_to_move,"J R Designers Floors, Rohini Sector 24",1,350,6714,1,Semi-Furnished,New_Property,1,2400000
+Builder_Floor,Ready_to_move,"J R Designers Floors, Rohini Sector 24",2,450,6714,2,Semi-Furnished,New_Property,1,3800000
+Builder_Floor,Ready_to_move,"J R Designers Floors, Rohini Sector 24",4,2200,6714,4,Semi-Furnished,New_Property,1,23000000
+Builder_Floor,Ready_to_move,"J R Designers Floors, Rohini Sector 24",4,2300,6714,4,Semi-Furnished,New_Property,1,24500000
+Builder_Floor,Ready_to_move,"J R Designers Floors, Rohini Sector 24",3,1150,6714,2,Semi-Furnished,New_Property,1,10000000
+Builder_Floor,Ready_to_move,"J R Designers Floors, Rohini Sector 24",3,800,6714,2,Semi-Furnished,New_Property,1,5500000
+Builder_Floor,Ready_to_move,"J R Designers Floors, Rohini Sector 24",3,850,6714,2,Semi-Furnished,New_Property,1,7000000
+Builder_Floor,Ready_to_move,"J R Designers Floors, Rohini Sector 24",3,720,6714,2,Semi-Furnished,New_Property,1,6500000
+Apartment,Almost_ready,"The Leela Sky Villas, Patel Nagar",5,4688,28797,4,Unfurnished,New_Property,1,135000000
+Apartment,Ready_to_move,"J R Designers Floors, Rohini Sector 24",2,750,6667,2,Semi-Furnished,New_Property,1,5000000
+Apartment,Almost_ready,"The Leela Sky Villas, Patel Nagar",4,3901,23840,4,Unfurnished,New_Property,1,93000000
+Apartment,Ready_to_move,"Uttam Nagar Floors, Uttam Nagar",3,950,4600,2,Furnished,New_Property,1,4370000
+Apartment,Ready_to_move,"Virat Residency, Dwarka Mor",3,1000,4620,2,Unfurnished,New_Property,1,4620000
+Apartment,Ready_to_move,"Siddhartha Heights, Dwarka Sector 24",2,850,2235,1,Semi-Furnished,New_Property,1,1900000
+Apartment,Ready_to_move,"Find Homes, Greater Kailash 2",4,2400,2235,4,Semi-Furnished,New_Property,1,70000000
+Apartment,Ready_to_move,"MTNL Employees House Welfare Society, Dwarka Sector 24",3,1350,3800,2,Unfurnished,New_Property,1,5130000
+Apartment,Ready_to_move,"Adarsh Homes, Dwarka Mor",2,540,5000,2,Semi-Furnished,New_Property,1,3000000
+Apartment,Ready_to_move,"Delhi Homes Yojana, Dwarka Sector 24",4,1387,4247,4,Unfurnished,New_Property,1,5890000
+Apartment,Ready_to_move,"Kushwaha Homes, Uttam Nagar",2,540,6111,2,Semi-Furnished,New_Property,1,3300000
+Apartment,Ready_to_move,"Godrej South Estate, Okhla",2,976,25512,2,Furnished,New_Property,1,24900000
+Apartment,Ready_to_move,"The Elite Spire, Dwarka Sector 21",3,1050,3524,2,Unfurnished,New_Property,1,3700000
+Builder_Floor,Ready_to_move,"APL Builder Floor, Greater Kailash 1",4,2700,22222,3,Semi-Furnished,New_Property,1,60000000
+Apartment,Ready_to_move,"Kunj Vihar Apartment, Dwarka Sector 12",3,1500,22222,2,Unfurnished,Resale,1,17400000
+Builder_Floor,Almost_ready,Janakpuri Block A3,5,2900,22222,5,Furnished,New_Property,1,51000000
+Builder_Floor,Almost_ready,Greater Kailash 2,5,5025,22222,6,Unfurnished,New_Property,4,170000000
+Builder_Floor,Almost_ready,"Partap Homes, Bhagwati Vihar, Uttam Nagar",3,1000,22222,2,Semi-Furnished,New_Property,1,5510000
+Apartment,Almost_ready,"The Amaryllis, Karol Bagh",3,1135,22222,3,Furnished,Resale,2,25000000
+Apartment,Almost_ready,"The Leela Sky Villas, Patel Nagar",3,2306,24718,3,Unfurnished,New_Property,1,57000000
+Apartment,Almost_ready,"Diamond Heights Multi Estate, Najafgarh",2,850,24718,2,Semi-Furnished,New_Property,1,2940000
+Apartment,Ready_to_move,"Ashirwad Apartments, Dwarka Sector 12",3,1200,24718,3,Semi-Furnished,Resale,1,15500000
+Apartment,Ready_to_move,"Sunny Valley Apartments, Dwarka",3,1700,24718,2,Semi-Furnished,Resale,1,17200000
+Builder_Floor,Ready_to_move,"Vasant Vihar Builder Floor, Vasant Vihar",4,1800,30556,3,Semi-Furnished,Resale,2,55000000
+Apartment,Ready_to_move,Vasant Kunj,2,1100,30556,2,Semi-Furnished,Resale,1,15000000
+Builder_Floor,Almost_ready,Greater Kailash 1,4,22050,30556,4,Semi-Furnished,New_Property,2,51000000
+Builder_Floor,Ready_to_move,Rohini Sector 24,4,1550,30556,3,Semi-Furnished,New_Property,1,13000000
+Builder_Floor,Ready_to_move,Greater Kailash 1,3,1600,18750,3,Semi-Furnished,New_Property,1,30000000
+Builder_Floor,Ready_to_move,"Khanpur, Madangir",2,700,18750,2,Semi-Furnished,New_Property,1,2400000
+Builder_Floor,Ready_to_move,"Batla House, Okhla",4,45,18750,3,Unfurnished,New_Property,1,5500000
+Builder_Floor,Ready_to_move,"Friends Colony West, New Friends Colony",4,3510,,4,Semi-Furnished,Resale,2,45000000
+Builder_Floor,Ready_to_move,New Friends Colony,4,4500,120000,4,Semi-Furnished,New_Property,2,60000000
+Builder_Floor,Ready_to_move,New Friends Colony,4,1800,120000,4,Semi-Furnished,New_Property,2,65000000
+Builder_Floor,Ready_to_move,"Maharani Bagh, New Friends Colony",5,6000,120000,5,Semi-Furnished,New_Property,9,220000000
+Builder_Floor,Ready_to_move,New Friends Colony ,4,4300,120000,4,Unfurnished,Resale,2,60000000
+Builder_Floor,Ready_to_move,"Friends Colony East, New Friends Colony",3,1700,120000,3,Semi-Furnished,New_Property,2,38500000
+Apartment,Ready_to_move,"Maharani Bagh, New Friends Colony",3,2500,120000,3,Semi-Furnished,Resale,2,50000000
+Builder_Floor,Ready_to_move,New Friends Colony,4,4500,120000,4,Semi-Furnished,New_Property,2,75000000
+Builder_Floor,Ready_to_move,"Friends Colony West, New Friends Colony",4,2450,120000,4,Furnished,New_Property,2,70000000
+Apartment,Ready_to_move,"Maharani Bagh, New Friends Colony",4,10350,15459,7,Semi-Furnished,New_Property,3,160000000
+Builder_Floor,Ready_to_move,"Maharani Bagh, New Friends Colony",3,4800,15459,4,Semi-Furnished,Resale,1,85000000
+Apartment,Ready_to_move,New Friends Colony,3,1600,15459,3,Semi-Furnished,Resale,2,40000000
+Builder_Floor,Ready_to_move,New Friends Colony,4,3500,15459,4,Unfurnished,Resale,2,90000000
+Builder_Floor,Ready_to_move,New Friends Colony,4,2100,15459,5,Semi-Furnished,New_Property,2,56000000
+Builder_Floor,Ready_to_move,"Friends Colony East, New Friends Colony",5,4200,15459,5,Semi-Furnished,New_Property,2,135500000
+Builder_Floor,Ready_to_move,New Friends Colony,3,1500,15459,3,Semi-Furnished,New_Property,2,60000000
+Builder_Floor,Ready_to_move,"Maharani Bagh, New Friends Colony",4,8150,15459,5,Unfurnished,New_Property,4,170000000
+Builder_Floor,Ready_to_move,"Kalindi Colony, Maharani Bagh, New Friends Colony",4,2200,15459,4,Semi-Furnished,Resale,2,50000000
+Builder_Floor,Ready_to_move,New Friends Colony,4,3500,15459,5,Semi-Furnished,New_Property,2,58000000
+Builder_Floor,Ready_to_move,"Friends Colony East, New Friends Colony",3,2070,15459,3,Semi-Furnished,New_Property,2,37500000
+Builder_Floor,Ready_to_move,"Maharani Bagh, New Friends Colony",3,3500,15459,3,Unfurnished,Resale,1,45000000
+Builder_Floor,Ready_to_move,New Friends Colony,4,2000,15459,4,Semi-Furnished,New_Property,3,70000000
+Apartment,Ready_to_move,"Taimoor Enclave, New Friends Colony ",6,2800,15459,4,Semi-Furnished,Resale,2,29500000
+Builder_Floor,Ready_to_move,New Friends Colony,4,2550,23529,4,Unfurnished,Resale,1,60000000
+Builder_Floor,Ready_to_move,New Friends Colony,4,4500,23529,4,Semi-Furnished,Resale,2,70000000
+Builder_Floor,Ready_to_move,New Friends Colony,3,1400,23529,3,Semi-Furnished,New_Property,2,50000000
+Builder_Floor,Ready_to_move,New Friends Colony,4,2800,23529,5,Semi-Furnished,New_Property,2,75000000
+Builder_Floor,Ready_to_move,"New Friends Colony Floors, New Friends Colony",4,2700,23529,4,Semi-Furnished,New_Property,2,52500000
+Builder_Floor,Ready_to_move,New Friends Colony,4,4500,23529,4,Semi-Furnished,Resale,2,55000000
+Builder_Floor,Ready_to_move,"Maharani Bagh, New Friends Colony",4,7200,16667,4,Semi-Furnished,Resale,2,120000000
+Builder_Floor,Ready_to_move,"Kailash Colony, Greater Kailash",4,2799,,4,Semi-Furnished,New_Property,,65000000
+Builder_Floor,Ready_to_move,"Kailash Colony, Greater Kailash",4,2650,,4,Unfurnished,New_Property,2,75000000
+Builder_Floor,Ready_to_move,"Kailash Colony, Greater Kailash",4,2200,,4,Semi-Furnished,New_Property,2,47500000
+Builder_Floor,Ready_to_move,"Kailash Colony, Greater Kailash",5,3500,20000,5,Semi-Furnished,New_Property,1,70000000
+Builder_Floor,Ready_to_move,"Kailash Colony, Greater Kailash",4,2200,20000,4,Semi-Furnished,New_Property,2,47500000
+Builder_Floor,Ready_to_move,"Kailash Colony, Greater Kailash",4,2200,20000,4,Semi-Furnished,New_Property,1,40000000
+Builder_Floor,Ready_to_move,"Kailash Colony, Greater Kailash",4,3500,20000,4,Semi-Furnished,New_Property,3,85000000
+Builder_Floor,Ready_to_move,"Kailash Colony, Greater Kailash",3,1440,20000,3,Semi-Furnished,New_Property,3,26000000
+Builder_Floor,Ready_to_move,"Kailash Colony, Greater Kailash",4,3150,11111,4,Semi-Furnished,Resale,3,35000000
+Builder_Floor,Ready_to_move,"Kailash Colony, Greater Kailash",2,900,11111,2,Semi-Furnished,Resale,3,20000000
+Builder_Floor,Almost_ready,"Kailash Colony, Greater Kailash",4,3690,21409,5,Semi-Furnished,New_Property,3,79000000
+Builder_Floor,Ready_to_move,"Kailash Colony, Greater Kailash",3,1200,21409,2,Semi-Furnished,Resale,3,17000000
+Builder_Floor,Ready_to_move,"Kailash Colony, Greater Kailash",4,4500,95000,4,Semi-Furnished,Resale,2,47500000
+Builder_Floor,Ready_to_move,"Kailash Colony, Greater Kailash",4,2799,15363,4,Semi-Furnished,New_Property,2,43000000
+Builder_Floor,Ready_to_move,"Kailash Colony, Greater Kailash",3,1350,19259,3,Unfurnished,New_Property,1,26000000
+Builder_Floor,Ready_to_move,"Kailash Colony, Greater Kailash",3,1200,20833,3,Unfurnished,New_Property,1,25000000
+Builder_Floor,Ready_to_move,"Kailash Colony, Greater Kailash",4,2177,20833,5,Semi-Furnished,New_Property,2,51000000
+Builder_Floor,Ready_to_move,"Kailash Colony, Greater Kailash",3,1500,20833,3,Semi-Furnished,New_Property,2,40000000
+Builder_Floor,Ready_to_move,"Kailash Colony, Greater Kailash",3,1600,20833,3,Unfurnished,Resale,1,22500000
+Builder_Floor,Ready_to_move,"Kailash Colony, Greater Kailash",4,4500,20833,4,Semi-Furnished,New_Property,1,70000000
+Builder_Floor,Ready_to_move,"Kailash Colony, Greater Kailash",4,2150,20930,4,Unfurnished,New_Property,2,45000000
+Apartment,Ready_to_move,"Kailash Colony, Greater Kailash",4,2107,20930,4,Semi-Furnished,New_Property,2,51100000
+Builder_Floor,Ready_to_move,"Kailash Colony, Greater Kailash",3,1150,20930,3,Semi-Furnished,New_Property,1,25500000
+Builder_Floor,Ready_to_move,"Kailash Colony, Greater Kailash",3,1240,20930,3,Unfurnished,New_Property,2,26500000
+Builder_Floor,Ready_to_move,"Kailash Colony, Greater Kailash",2,1000,20930,2,Unfurnished,Resale,1,15000000
+Builder_Floor,Ready_to_move,"Kailash Colony, Greater Kailash",4,4500,20930,4,Semi-Furnished,Resale,2,55000000
+Builder_Floor,Ready_to_move,"Kailash Colony, Greater Kailash",3,1150,20930,3,Semi-Furnished,New_Property,2,26000000
+Builder_Floor,Ready_to_move,"Kailash Colony, Greater Kailash",4,2000,20930,4,Semi-Furnished,Resale,2,38000000
+Builder_Floor,Ready_to_move,"Kailash Colony, Greater Kailash",4,4500,20930,5,Semi-Furnished,Resale,2,72500000
+Builder_Floor,Ready_to_move,"Kailash Colony, Greater Kailash",4,3000,20930,5,Semi-Furnished,New_Property,4,65000000
+Builder_Floor,Ready_to_move,"Ram Nagar, Shahdara",2,700,,2,Unfurnished,New_Property,,4600000
+Builder_Floor,Ready_to_move,"Jyoti Nagar West, Shahdara",2,750,,2,Semi-Furnished,Resale,,9200000
+Apartment,Ready_to_move,"Hans Apartments, Vishwas Nagar, Shahdara",4,1350,,3,Unfurnished,Resale,2,9500000
+Builder_Floor,Ready_to_move,"Naveen Shahdara, Shahdara",2,900,,2,Semi-Furnished,Resale,1,4500000
+Builder_Floor,Ready_to_move,"Balbir Nagar, Shahdara",3,970,,2,Semi-Furnished,Resale,1,6500000
+Builder_Floor,Ready_to_move,"Rohitash Nagar East, Shahdara",3,1000,,2,Furnished,Resale,1,5650000
+Builder_Floor,Ready_to_move,"Naveen Shahdara, Shahdara",3,1425,6526,3,Semi-Furnished,Resale,1,9300000
+Apartment,Ready_to_move,Shahdara,2,440,6526,2,Unfurnished,Resale,1,2700000
+Builder_Floor,Ready_to_move,"Vishwas Nagar, Shahdara",2,1017,6526,2,Furnished,New_Property,1,6500000
+Apartment,Ready_to_move,"DDA RPS Flats, Mansarowar Park, Shahdara",2,650,6526,2,Semi-Furnished,Resale,1,5800000
+Apartment,Ready_to_move,Shahdara,3,950,6526,2,Semi-Furnished,Resale,1,5500000
+Builder_Floor,Ready_to_move,"Yamuna Vihar, Shahdara",3,810,6526,2,Semi-Furnished,Resale,1,6000000
+Builder_Floor,Ready_to_move,"Balbir Nagar, Shahdara",2,750,6526,2,Unfurnished,Resale,1,4500000
+Builder_Floor,Ready_to_move,Shahdara,2,990,6526,2,Semi-Furnished,Resale,2,4100000
+Builder_Floor,Ready_to_move,"Ram Nagar, Shahdara",3,800,6526,2,Semi-Furnished,Resale,2,3800000
+Apartment,Ready_to_move,Shahdara,2,675,6526,1,Unfurnished,Resale,1,3300000
+Builder_Floor,Ready_to_move,"Rohtash Nagar, Shahdara",2,558,6526,1,Unfurnished,New_Property,1,2900000
+Builder_Floor,Ready_to_move,"Ram Nagar Extension, Shahdara",2,445,6526,1,Unfurnished,Resale,1,2000000
+Builder_Floor,Ready_to_move,"Maujpur, Shahdara",2,360,6526,1,Unfurnished,New_Property,1,1550000
+Builder_Floor,Ready_to_move,"Mansarowar Park, Shahdara",4,1350,6526,3,Semi-Furnished,New_Property,1,11300000
+Builder_Floor,Ready_to_move,"Gorakh Park West, Shahdara",3,850,6526,2,Semi-Furnished,Resale,1,4500000
+Apartment,Ready_to_move,"Shivnam Apartment, Shahdara",2,846,3901,1,Unfurnished,New_Property,1,3300000
+Builder_Floor,Ready_to_move,"Mansarowar Park, Shahdara",4,1300,3901,3,Furnished,New_Property,1,11500000
+Builder_Floor,Almost_ready,"Ram Nagar Extension, Shahdara",3,900,3901,2,Semi-Furnished,New_Property,1,6000000
+Apartment,Ready_to_move,"Hans Apartments, Vishwas Nagar, Shahdara",3,1050,3901,2,Semi-Furnished,Resale,1,9000000
+Builder_Floor,Ready_to_move,"Jyoti Colony, Shahdara",2,850,3901,2,Furnished,Resale,1,4500000
+Apartment,Almost_ready,Shahdara,4,1650,3901,3,Furnished,New_Property,1,14000000
+Apartment,Ready_to_move,"Ahinsha Vatika, Ram Nagar, Shahdara",2,1150,6347,2,Semi-Furnished,Resale,1,7300000
+Builder_Floor,Ready_to_move,Shahdara,1,495.1394,41304,1,Furnished,Resale,1,1900000
+Builder_Floor,Ready_to_move,"Naveen Shahdara, Shahdara",3,1053,41304,2,Furnished,Resale,4,7000000
+Builder_Floor,Ready_to_move,"Yamuna Vihar, Shahdara",3,810,,2,Semi-Furnished,Resale,1,6000000
+Builder_Floor,Ready_to_move,"Yamuna Vihar, Shahdara",1,750,,2,Semi-Furnished,Resale,1,6400000
+Apartment,Ready_to_move,"Yamuna Vihar, Shahdara",2,540,5000,1,Furnished,New_Property,1,2700000
+Builder_Floor,Ready_to_move,"Yamuna Vihar, Shahdara",2,747,8701,2,Furnished,Resale,1,6500000
+Builder_Floor,Ready_to_move,"Yamuna Vihar, Shahdara",2,720,5556,1,Unfurnished,Resale,1,4000000
+Apartment,Ready_to_move,"Yamuna Vihar, Shahdara",1,376.7365,85715,1,Semi-Furnished,New_Property,1,3000000
+Builder_Floor,Ready_to_move,"Yamuna Vihar, Shahdara",2,1125,4444,2,Unfurnished,Resale,1,5000000
+Builder_Floor,Ready_to_move,"Yamuna Vihar, Shahdara",2,713,4444,2,Semi-Furnished,New_Property,1,6000000
+Builder_Floor,Ready_to_move,"Yamuna Vihar, Shahdara",1,360,6944,1,Unfurnished,Resale,1,2500000
+Apartment,Ready_to_move,"Yamuna Vihar, Shahdara",2,900,7222,2,Semi-Furnished,Resale,1,6500000
+Apartment,Ready_to_move,"Yamuna Vihar, Shahdara",3,713,11220,1,Unfurnished,Resale,1,8000000
+Builder_Floor,Ready_to_move,"Yamuna Vihar, Shahdara",2,504,5357,1,Furnished,Resale,1,2700000
+Apartment,Ready_to_move,"Yamuna Vihar, Shahdara",1,70,5357,2,Unfurnished,Resale,1,4500000
+Builder_Floor,Ready_to_move,"Yamuna Vihar, Shahdara",3,850,6706,2,Furnished,Resale,1,5700000
+Builder_Floor,Ready_to_move,"Yamuna Vihar, Shahdara",4,2430,10288,3,Furnished,Resale,1,25000000
+Builder_Floor,Ready_to_move,"Yamuna Vihar, Shahdara",3,2475,28283,3,Furnished,Resale,1,70000000
+Builder_Floor,Ready_to_move,"Yamuna Vihar, Shahdara",7,2970,8923,4,Furnished,Resale,1,26500000
+Builder_Floor,Ready_to_move,"Yamuna Vihar, Shahdara",3,2250,8222,2,Furnished,Resale,1,18500000
+Builder_Floor,Ready_to_move,"Yamuna Vihar, Shahdara",5,1500,20000,3,Furnished,Resale,1,30000000
+Builder_Floor,Ready_to_move,"Yamuna Vihar, Shahdara",2,1512,14550,2,Furnished,Resale,1,22000000
+Builder_Floor,Ready_to_move,"Yamuna Vihar, Shahdara",3,2160,30093,3,Furnished,Resale,1,65000000
+Builder_Floor,Ready_to_move,"Yamuna Vihar, Shahdara",3,630,35714,2,Furnished,Resale,1,22500000
+Builder_Floor,Ready_to_move,"Yamuna Vihar, Shahdara",6,324,35714,3,Furnished,Resale,1,8700000
+Builder_Floor,Ready_to_move,"Yamuna Vihar, Shahdara",6,720,35714,5,Furnished,Resale,1,22000000
+Builder_Floor,Ready_to_move,"Yamuna Vihar, Shahdara",4,675,35714,2,Furnished,Resale,2,18500000
+Builder_Floor,Ready_to_move,"Yamuna Vihar, Shahdara",2,700,22857,1,Furnished,New_Property,2,16000000
+Builder_Floor,Ready_to_move,"Yamuna Vihar, Shahdara",4,675,22857,3,Furnished,Resale,2,16000000
+Builder_Floor,Ready_to_move,"Yamuna Vihar, Shahdara",4,720,12500,2,Furnished,Resale,2,9000000
+Builder_Floor,Ready_to_move,"Jyoti Colony, Shahdara",2,850,12500,2,Furnished,Resale,1,4500000
+Builder_Floor,Ready_to_move,Laxmi Nagar,3,801,,2,Semi-Furnished,New_Property,1,6000000
+Builder_Floor,Ready_to_move,Laxmi Nagar,1,450,,2,Unfurnished,Resale,1,2700000
+Apartment,Ready_to_move,Laxmi Nagar,3,1000,,2,Unfurnished,Resale,1,6500000
+Apartment,Ready_to_move,Laxmi Nagar,3,990,4040,2,Unfurnished,Resale,1,4000000
+Builder_Floor,Ready_to_move,Laxmi Nagar,2,420,4040,1,Semi-Furnished,New_Property,1,2600000
+Builder_Floor,Ready_to_move,Laxmi Nagar,2,450,7778,1,Semi-Furnished,Resale,1,3500000
+Apartment,Ready_to_move,Laxmi Nagar,2,1000,7778,2,Unfurnished,Resale,1,7500000
+Builder_Floor,Ready_to_move,Laxmi Nagar,3,900,7778,2,Semi-Furnished,Resale,1,7000000
+Builder_Floor,Ready_to_move,Laxmi Nagar,3,800,7778,2,Semi-Furnished,New_Property,1,4500000
+Builder_Floor,Ready_to_move,Laxmi Nagar,3,720,7778,3,Semi-Furnished,Resale,2,5500000
+Builder_Floor,Ready_to_move,Laxmi Nagar,2,450,7778,1,Semi-Furnished,New_Property,2,2700000
+Builder_Floor,Ready_to_move,Laxmi Nagar,2,675,32000,2,Furnished,Resale,2,2400000
+Builder_Floor,Ready_to_move,Laxmi Nagar,4,1700,32000,3,Unfurnished,New_Property,2,11500000
+Builder_Floor,Ready_to_move,"Guru Angad Nagar West, Laxmi Nagar",2,550,32000,2,Unfurnished,New_Property,2,3600000
+Builder_Floor,Ready_to_move,"Guru Angad Nagar West, Laxmi Nagar",1,387,32000,2,Unfurnished,New_Property,2,1700000
+Apartment,Ready_to_move,"Lalita Park, Laxmi Nagar",2,450,32000,1,Unfurnished,Resale,2,2500000
+Builder_Floor,Ready_to_move,Laxmi Nagar,4,900,32000,2,Furnished,Resale,1,6600000
+Builder_Floor,Ready_to_move,Laxmi Nagar,2,500,32000,1,Semi-Furnished,Resale,1,3700000
+Apartment,Ready_to_move,"Krishan Kunj, Laxmi Nagar",2,441,32000,1,Unfurnished,Resale,1,3500000
+Builder_Floor,Ready_to_move,"Lalita Park, Laxmi Nagar",3,800,32000,2,Semi-Furnished,Resale,1,5400000
+Builder_Floor,Ready_to_move,Laxmi Nagar ,2,450,5666,2,Semi-Furnished,New_Property,1,2550000
+Builder_Floor,Ready_to_move,Laxmi Nagar,3,1000,5666,3,Furnished,Resale,1,12500000
+Apartment,Ready_to_move,Laxmi Nagar,2,715,5666,2,Unfurnished,Resale,1,5600000
+Builder_Floor,Ready_to_move,Laxmi Nagar,2,600,11667,2,Unfurnished,Resale,1,7000000
+Builder_Floor,Ready_to_move,Laxmi Nagar,2,540,11667,1,Unfurnished,Resale,1,3500000
+Apartment,Ready_to_move,"Bank Enclave, Laxmi Nagar",4,312,112179,4,Furnished,Resale,1,35000000
+Builder_Floor,Ready_to_move,Laxmi Nagar,3,810,11111,2,Semi-Furnished,Resale,1,9000000
+Builder_Floor,Ready_to_move,"Guru Angad Nagar West, Laxmi Nagar",1,270,11111,1,Semi-Furnished,Resale,1,2300000
+Builder_Floor,Ready_to_move,Laxmi Nagar,3,900,11111,2,Semi-Furnished,Resale,1,6000000
+Apartment,Ready_to_move,Laxmi Nagar,3,1000,11111,2,Unfurnished,Resale,1,6000000
+Builder_Floor,Ready_to_move,Uttam Nagar,2,540,,2,Semi-Furnished,New_Property,1,2650000
+Apartment,Ready_to_move,"Uttam Nagar Floors, Uttam Nagar",3,950,4600,2,Furnished,New_Property,1,4370000
+Apartment,Ready_to_move,"Virat Residency, Dwarka Mor",3,1000,4620,2,Unfurnished,New_Property,1,4620000
+Apartment,Ready_to_move,"Adarsh Homes, Dwarka Mor",2,540,5000,2,Semi-Furnished,New_Property,1,3000000
+Apartment,Ready_to_move,"Kushwaha Homes, Uttam Nagar",2,540,6111,2,Semi-Furnished,New_Property,1,3300000
+Builder_Floor,Almost_ready,"Partap Homes, Bhagwati Vihar, Uttam Nagar",3,1000,6111,2,Semi-Furnished,New_Property,1,5510000
+Builder_Floor,Ready_to_move,Dwarka Mor,2,500,6111,2,Semi-Furnished,New_Property,1,3200000
+Builder_Floor,Ready_to_move,Uttam Nagar West,2,540,6111,2,Semi-Furnished,New_Property,1,2600000
+Builder_Floor,Ready_to_move,Uttam Nagar,3,780,6111,2,Semi-Furnished,New_Property,1,4000000
+Builder_Floor,Ready_to_move,Uttam Nagar West,2,450,6111,1,Semi-Furnished,New_Property,1,1850000
+Builder_Floor,Ready_to_move,Uttam Nagar,1,360,6111,1,Semi-Furnished,New_Property,1,1700000
+Builder_Floor,Ready_to_move,"SB Residency, Dwarka Mor",3,900,6111,2,Semi-Furnished,New_Property,1,2800000
+Builder_Floor,Ready_to_move,Uttam Nagar West,2,495,6111,2,Semi-Furnished,New_Property,1,2150000
+Builder_Floor,Ready_to_move,"SB Residency, Dwarka Mor",4,1200,6111,3,Semi-Furnished,New_Property,1,6800000
+Builder_Floor,Ready_to_move,Uttam Nagar,3,1000,6111,2,Semi-Furnished,New_Property,1,6200000
+Builder_Floor,Ready_to_move,Uttam Nagar,2,620,6111,2,Semi-Furnished,New_Property,1,3100000
+Builder_Floor,Ready_to_move,Dwarka Mor,3,680,6111,2,Semi-Furnished,New_Property,1,3400000
+Builder_Floor,Ready_to_move,"Kiran Garden, Uttam Nagar",2,805,6111,2,Unfurnished,Resale,1,4000000
+Builder_Floor,Ready_to_move,"Mohan Garden, Razapur Khurd",2,729,6584,2,Semi-Furnished,Resale,1,4800000
+Builder_Floor,Ready_to_move,Uttam Nagar,2,540,6584,2,Semi-Furnished,New_Property,1,2500000
+Builder_Floor,Ready_to_move,Uttam Nagar,1,360,6584,1,Semi-Furnished,New_Property,1,2000000
+Builder_Floor,Ready_to_move,Uttam Nagar West,2,550,6584,2,Semi-Furnished,New_Property,1,1900000
+Builder_Floor,Ready_to_move,"Mitya Homes, Dwarka Mor",3,1001,5794,2,Furnished,New_Property,1,5800000
+Builder_Floor,Ready_to_move,Dwarka Mor,2,450,5794,2,Unfurnished,Resale,1,2900000
+Builder_Floor,Ready_to_move,Uttam Nagar West,2,550,5794,1,Semi-Furnished,New_Property,1,2000000
+Builder_Floor,Ready_to_move,Uttam Nagar ,2,550,5794,2,Semi-Furnished,New_Property,1,2600000
+Builder_Floor,Ready_to_move,Uttam Nagar,2,675,5794,1,Unfurnished,Resale,1,2900000
+Builder_Floor,Ready_to_move,Uttam Nagar,2,585,5794,2,Unfurnished,Resale,1,3200000
+Builder_Floor,Ready_to_move,"New Uttam Nagar, Uttam Nagar",3,810,5794,2,Semi-Furnished,Resale,1,5400000
+Builder_Floor,Ready_to_move,Dwarka Mor,3,765,5794,2,Semi-Furnished,Resale,1,3800000
+Apartment,Almost_ready,"The Leela Sky Villas, Patel Nagar",5,4688,28797,4,Unfurnished,New_Property,1,135000000
+Apartment,Almost_ready,"The Leela Sky Villas, Patel Nagar",4,3901,23840,4,Unfurnished,New_Property,1,93000000
+Builder_Floor,Ready_to_move,"Patel Nagar South, Patel Nagar",2,70,23840,3,Furnished,New_Property,1,8200000
+Builder_Floor,Ready_to_move,Patel Nagar West,3,800,23840,2,Unfurnished,Resale,1,8000000
+Builder_Floor,Ready_to_move,Patel Nagar West,3,900,23840,2,Semi-Furnished,Resale,1,9500000
+Builder_Floor,Ready_to_move,Patel Nagar West,4,1680,23840,5,Semi-Furnished,Resale,1,20000000
+Builder_Floor,Ready_to_move,Patel Nagar West,2,900,23840,2,Furnished,Resale,3,7400000
+Apartment,Ready_to_move,"Patel Nagar East, Patel Nagar",3,2000,23840,3,Semi-Furnished,Resale,1,37500000
+Builder_Floor,Ready_to_move,Patel Nagar West,4,2000,7500,4,Semi-Furnished,Resale,3,15000000
+Apartment,Almost_ready,"The Leela Sky Villas, Patel Nagar",3,1900,7500,3,Semi-Furnished,New_Property,1,55300000
+Builder_Floor,Ready_to_move,"Patel Nagar East, Patel Nagar",3,1530,7500,3,Semi-Furnished,Resale,2,26500000
+Apartment,Ready_to_move,"Patel Nagar East, Patel Nagar",3,100,160000,2,Semi-Furnished,Resale,2,16000000
+Builder_Floor,Ready_to_move,Patel Nagar West,3,900,11556,2,Furnished,Resale,2,10400000
+Builder_Floor,Ready_to_move,Patel Nagar West,1,270,11556,1,Unfurnished,Resale,2,1700000
+Builder_Floor,Ready_to_move,Patel Nagar West,2,950,8421,2,Semi-Furnished,Resale,2,8000000
+Builder_Floor,Ready_to_move,"Patel Nagar East, Patel Nagar",3,1800,8421,3,Semi-Furnished,Resale,2,27000000
+Builder_Floor,Ready_to_move,Patel Nagar West,3,1500,8421,3,Semi-Furnished,Resale,2,19500000
+Apartment,Ready_to_move,"Patel Nagar East, Patel Nagar",3,1800,27778,3,Furnished,Resale,3,50000000
+Builder_Floor,Ready_to_move,Patel Nagar West,3,1800,11722,3,Unfurnished,Resale,3,21100000
+Apartment,Almost_ready,"The Leela Sky Villas, Patel Nagar",3,2306,24718,3,Unfurnished,New_Property,1,57000000
+Builder_Floor,Ready_to_move,Patel Nagar West,2,850,24718,3,Semi-Furnished,Resale,1,5900000
+Builder_Floor,Ready_to_move,"Punjabi Basti, Patel Nagar",3,140,85714,2,Unfurnished,New_Property,1,12000000
+Builder_Floor,Ready_to_move,Patel Nagar West,3,900,13333,2,Unfurnished,Resale,1,12000000
+Apartment,Ready_to_move,Patel Nagar West,3,1800,13333,3,Unfurnished,Resale,1,24000000
+Apartment,Ready_to_move,"Patel Nagar East, Patel Nagar",1,200,13333,1,Semi-Furnished,Resale,1,7000000
+Apartment,Ready_to_move,"Patel Nagar East, Patel Nagar",3,1782,8418,3,Semi-Furnished,Resale,1,15000000
+Builder_Floor,Ready_to_move,"Baljit Nagar, Patel Nagar",2,900,1667,2,Furnished,Resale,1,1500000
+Apartment,Ready_to_move,Patel Nagar West,2,405,1667,1,Semi-Furnished,Resale,1,3950000
+Builder_Floor,Ready_to_move,Patel Nagar West,3,1500,8333,3,Unfurnished,Resale,1,12500000
+Apartment,Ready_to_move,"Baljit Nagar, Patel Nagar",3,66,24242,1,Unfurnished,New_Property,1,1600000
+Apartment,Ready_to_move,"DDA Flats Vasant Kunj, Vasant Kunj Sector B",4,2000,,4,Unfurnished,Resale,2,36500000
+Apartment,Ready_to_move,"DDA Flats Vasant Kunj, Vasant Kunj",3,1200,,2,Semi-Furnished,Resale,1,20000000
+Apartment,Ready_to_move,Vasant Kunj,2,1100,,2,Semi-Furnished,Resale,1,15000000
+Apartment,Ready_to_move,Vasant Kunj,3,1400,,2,Semi-Furnished,New_Property,2,25000000
+Apartment,Ready_to_move,"DDA Flats Vasant Kunj, Vasant Kunj",3,1600,,2,Semi-Furnished,Resale,2,18500000
+Apartment,Ready_to_move,"DDA Flats Pocket 1, Vasant Kunj Sector B",4,1600,,3,Unfurnished,Resale,2,23500000
+Apartment,Ready_to_move,Vasant Kunj,1,600,,1,Semi-Furnished,New_Property,1,8000000
+Apartment,Ready_to_move,"Saraswati Narmada Ganga Yamuna Apartment, Vasant Kunj Sector D",3,1600,,2,Unfurnished,Resale,1,23000000
+Apartment,Ready_to_move,"DDA Flats Vasant Kunj, Vasant Kunj",3,2000,15500,3,Unfurnished,Resale,1,31000000
+Apartment,Ready_to_move,"DDA Flats Sector E Pocket 1, Vasant Kunj",1,650,15500,2,Semi-Furnished,Resale,1,7400000
+Apartment,Ready_to_move,Vasant Kunj,2,1100,15500,2,Unfurnished,Resale,1,15500000
+Apartment,Ready_to_move,"DDA Flats Sector E Pocket 1, Vasant Kunj",2,1075,15500,2,Semi-Furnished,New_Property,2,12000000
+Apartment,Ready_to_move,"DDA Flats Vasant Kunj, Vasant Kunj Sector D",3,1450,15500,2,Semi-Furnished,Resale,2,23500000
+Apartment,Ready_to_move,Vasant Kunj Sector A,3,1200,20833,2,Semi-Furnished,Resale,2,25000000
+Apartment,Ready_to_move,"E2 Vasant Kunj, Vasant Kunj",1,600,20833,2,Unfurnished,New_Property,2,7000000
+Apartment,Ready_to_move,"DDA Flats Vasant Kunj, Vasant Kunj",2,1000,20833,2,Unfurnished,Resale,1,17500000
+Apartment,Ready_to_move,"Ganga Apartment Sector D Pocket 6, Vasant Kunj",3,1600,20833,2,Semi-Furnished,Resale,1,25000000
+Apartment,Ready_to_move,Vasant Kunj Sector C,4,1750,20833,4,Unfurnished,New_Property,1,29000000
+Apartment,Ready_to_move,"DDA Flats Sector E Pocket 1, Vasant Kunj",3,1300,20833,3,Semi-Furnished,Resale,1,21900000
+Apartment,Ready_to_move,Vasant Kunj Sector D,1,550,20833,2,Furnished,Resale,1,7500000
+Apartment,Ready_to_move,"DDA Flats Vasant Kunj, Vasant Kunj Sector C",4,2200,10681,3,Semi-Furnished,Resale,2,23500000
+Apartment,Ready_to_move,Vasant Kunj Sector C,2,1100,21818,2,Semi-Furnished,Resale,2,24000000
+Builder_Floor,Ready_to_move,Vasant Kunj,3,1700,21818,2,Semi-Furnished,Resale,2,31000000
+Apartment,Ready_to_move,Vasant Kunj,2,1100,21818,2,Semi-Furnished,Resale,3,16500000
+Builder_Floor,Ready_to_move,"Kishangarh, Vasant Kunj",2,1000,21818,2,Furnished,Resale,1,5000000
+Apartment,Ready_to_move,"DDA Pocket 1, Vasant Kunj Sector D",3,1350,21818,2,Furnished,New_Property,1,24000000
+Apartment,Ready_to_move,"Ganga Apartment Sector D Pocket 6, Vasant Kunj",2,1184,14358,2,Semi-Furnished,Resale,1,17000000
+Apartment,Ready_to_move,Vasant Kunj Sector B,4,2000,14358,2,Furnished,New_Property,1,40000000
+Builder_Floor,Ready_to_move,Vasant Kunj,4,3500,14358,4,Semi-Furnished,New_Property,5,22500000
+Builder_Floor,Ready_to_move,Vasant Kunj,3,900,14358,3,Furnished,Resale,2,20000000
+Apartment,Almost_ready,"The Leela Sky Villas, Patel Nagar",5,4688,28797,4,Unfurnished,New_Property,1,135000000
+Apartment,Ready_to_move,"J R Designers Floors, Rohini Sector 24",2,750,6667,2,Semi-Furnished,New_Property,1,5000000
+Apartment,Almost_ready,"The Leela Sky Villas, Patel Nagar",4,3901,23840,4,Unfurnished,New_Property,1,93000000
+Apartment,Ready_to_move,"Uttam Nagar Floors, Uttam Nagar",3,950,4600,2,Furnished,New_Property,1,4370000
+Apartment,Ready_to_move,"Virat Residency, Dwarka Mor",3,1000,4620,2,Unfurnished,New_Property,1,4620000
+Apartment,Ready_to_move,"Siddhartha Heights, Dwarka Sector 24",2,850,2235,1,Semi-Furnished,New_Property,1,1900000
+Apartment,Ready_to_move,"Find Homes, Greater Kailash 2",4,2400,2235,4,Semi-Furnished,New_Property,1,70000000
+Apartment,Ready_to_move,"MTNL Employees House Welfare Society, Dwarka Sector 24",3,1350,3800,2,Unfurnished,New_Property,1,5130000
+Apartment,Ready_to_move,"Adarsh Homes, Dwarka Mor",2,540,5000,2,Semi-Furnished,New_Property,1,3000000
+Apartment,Ready_to_move,"Delhi Homes Yojana, Dwarka Sector 24",4,1387,4247,4,Unfurnished,New_Property,1,5890000
+Apartment,Ready_to_move,"Kushwaha Homes, Uttam Nagar",2,540,6111,2,Semi-Furnished,New_Property,1,3300000
+Apartment,Ready_to_move,"Godrej South Estate, Okhla",2,976,25512,2,Furnished,New_Property,1,24900000
+Apartment,Ready_to_move,"The Elite Spire, Dwarka Sector 21",3,1050,3524,2,Unfurnished,New_Property,1,3700000
+Builder_Floor,Ready_to_move,"APL Builder Floor, Greater Kailash 1",4,2700,22222,3,Semi-Furnished,New_Property,1,60000000
+Apartment,Ready_to_move,"Kunj Vihar Apartment, Dwarka Sector 12",3,1500,22222,2,Unfurnished,Resale,1,17400000
+Builder_Floor,Almost_ready,Janakpuri Block A3,5,2900,22222,5,Furnished,New_Property,1,51000000
+Builder_Floor,Almost_ready,Greater Kailash 2,5,5025,22222,6,Unfurnished,New_Property,4,170000000
+Builder_Floor,Almost_ready,"Partap Homes, Bhagwati Vihar, Uttam Nagar",3,1000,22222,2,Semi-Furnished,New_Property,1,5510000
+Apartment,Almost_ready,"The Amaryllis, Karol Bagh",3,1135,22222,3,Furnished,Resale,2,25000000
+Apartment,Almost_ready,"The Leela Sky Villas, Patel Nagar",3,2306,24718,3,Unfurnished,New_Property,1,57000000
+Apartment,Almost_ready,"Diamond Heights Multi Estate, Najafgarh",2,850,24718,2,Semi-Furnished,New_Property,1,2940000
+Apartment,Ready_to_move,"Ashirwad Apartments, Dwarka Sector 12",3,1200,24718,3,Semi-Furnished,Resale,1,15500000
+Apartment,Ready_to_move,"Sunny Valley Apartments, Dwarka",3,1700,24718,2,Semi-Furnished,Resale,1,17200000
+Builder_Floor,Ready_to_move,"Vasant Vihar Builder Floor, Vasant Vihar",4,1800,30556,3,Semi-Furnished,Resale,2,55000000
+Apartment,Ready_to_move,Vasant Kunj,2,1100,30556,2,Semi-Furnished,Resale,1,15000000
+Builder_Floor,Almost_ready,Greater Kailash 1,4,22050,30556,4,Semi-Furnished,New_Property,2,51000000
+Builder_Floor,Ready_to_move,Rohini Sector 24,4,1550,30556,3,Semi-Furnished,New_Property,1,13000000
+Builder_Floor,Ready_to_move,Greater Kailash 1,3,1600,18750,3,Semi-Furnished,New_Property,1,30000000
+Builder_Floor,Ready_to_move,"Khanpur, Madangir",2,700,18750,2,Semi-Furnished,New_Property,1,2400000
+Builder_Floor,Ready_to_move,"Batla House, Okhla",4,45,18750,3,Unfurnished,New_Property,1,5500000
+,Ready_to_move,"Gandhi Nagar, Shahdara",2,450,58000,2,,Resale,,2900000
+,Ready_to_move,"Gandhi Nagar, Shahdara",5,540,58000,2,,Resale,,17000000
+,Ready_to_move,"Gandhi Nagar, Shahdara",3,1350,18519,3,,Resale,,25000000
+,Ready_to_move,"Gandhi Nagar, Shahdara",3,2250,4444,2,,Resale,,10000000
+Apartment,Ready_to_move,"DDA Flats Mansarovar Park, Seelampur, Shahdara",2,1250,4444,1,Semi-Furnished,Resale,,7500000
+Apartment,Ready_to_move,"Seelampur, Shahdara",3,504,7143,1,Semi-Furnished,Resale,,3600000
+Apartment,Ready_to_move,"Shanti Mohalla, Shahdara",3,65,7143,2,Semi-Furnished,New_Property,,35000000
+Apartment,Ready_to_move,"Seelampur, Shahdara",2,450,13333,1,Unfurnished,Resale,,6000000
+Builder_Floor,Ready_to_move,"Rajgarh Colony, Shahdara",4,1800,9722,2,Furnished,Resale,,17500000
+Builder_Floor,Ready_to_move,"Kanti Nagar East, Shahdara",4,1800,19444,3,Furnished,Resale,,35000000
+Builder_Floor,Ready_to_move,"Raghubarpura, Shahdara",5,1530,6667,2,Furnished,Resale,,10200000
+Apartment,Ready_to_move,Vasant Kunj Sector C,4,1750,6667,4,Unfurnished,New_Property,1,29000000
+Builder_Floor,Ready_to_move,"Sukhdev Vihar, Okhla",4,2210,6667,3,Semi-Furnished,Resale,1,41000000
+Builder_Floor,Ready_to_move,Geeta Colony,3,760,6667,2,Furnished,Resale,1,6000000
+Apartment,Ready_to_move,Krishna Nagar Block A,2,400,6667,1,Furnished,New_Property,1,2500000
+Builder_Floor,Ready_to_move,Geeta Colony,1,380,6667,1,Unfurnished,Resale,1,2200000
+Apartment,Ready_to_move,"Taj Enclave, Khairatabad",2,904.1676,6667,2,Furnished,New_Property,1,21500000
+Apartment,Ready_to_move,"Shastri Park, Shahdara",4,900,6667,1,Furnished,Resale,1,15000000
+Apartment,Ready_to_move,Geeta Colony,5,810,6667,6,Furnished,Resale,1,28900000
+Builder_Floor,Ready_to_move,Geeta Colony,3,100,6667,2,Unfurnished,Resale,1,5500000
+Apartment,Ready_to_move,"Shastri Park, Shahdara",2,50,6667,1,Semi-Furnished,New_Property,1,1950000
+Apartment,Ready_to_move,Geeta Colony,2,58,6667,1,Unfurnished,Resale,1,3800000
+Builder_Floor,Ready_to_move,"Sitaram Bazar, Chandni Chowk",2,900,6667,1,Semi-Furnished,New_Property,1,6200000
+Apartment,Almost_ready,Shahdara,4,1650,6667,3,Furnished,New_Property,1,14000000
+Apartment,Ready_to_move,Laxmi Nagar,2,1000,6667,2,Unfurnished,Resale,1,7500000
+Apartment,Ready_to_move,Shahdara ,2,852,6667,2,Unfurnished,Resale,1,2670000
+Apartment,Ready_to_move,Shahdara,2,700,6667,2,Semi-Furnished,Resale,1,2500000
+Apartment,Ready_to_move,Laxmi Nagar,3,990,4040,2,Unfurnished,Resale,1,4000000
+Builder_Floor,Ready_to_move,Laxmi Nagar,2,450,7778,1,Semi-Furnished,Resale,1,3500000
+Apartment,Ready_to_move,Laxmi Nagar,2,1000,5000,2,Unfurnished,New_Property,1,5000000
+Builder_Floor,Ready_to_move,Saket,4,1700,21071,3,Semi-Furnished,Resale,2,29500000
+Builder_Floor,Ready_to_move,"Anupam Enclave, Saket",3,1350,14074,2,Unfurnished,Resale,1,19000000
+Apartment,Ready_to_move,Saket,4,2100,14074,3,Furnished,Resale,1,25500000
+Builder_Floor,Ready_to_move,Saket,4,2600,28846,4,Semi-Furnished,New_Property,3,75000000
+Builder_Floor,Ready_to_move,Saket,4,3000,28846,5,Semi-Furnished,New_Property,4,75000000
+Builder_Floor,Almost_ready,"RWA Flats, Saket",3,1450,28846,3,Semi-Furnished,New_Property,1,34000000
+Builder_Floor,Ready_to_move,Saket,4,2050,28846,4,Semi-Furnished,New_Property,1,47500000
+Builder_Floor,Ready_to_move,"Metrotech Builder Floors, Saket",4,3000,28846,5,Semi-Furnished,New_Property,3,75000000
+Apartment,Ready_to_move,"Saket Court Residential Complex, Saket",3,1800,28846,3,Semi-Furnished,Resale,2,23000000
+Apartment,Ready_to_move,"Press Enclave Society, Saket",3,900,28846,2,Semi-Furnished,Resale,1,24000000
+Apartment,Ready_to_move,"RWA Flats, Saket",3,1500,28846,2,Semi-Furnished,Resale,2,21500000
+Builder_Floor,Ready_to_move,Saket,3,1500,28846,2,Semi-Furnished,New_Property,1,28500000
+Builder_Floor,Ready_to_move,"Project Paryavaran Complex, Saket",4,1800,6944,4,Semi-Furnished,Resale,1,12500000
+Builder_Floor,Ready_to_move,Saket,3,1674,6944,3,Unfurnished,Resale,1,45000000
+Builder_Floor,Ready_to_move,Saket,4,2025,6944,3,Furnished,Resale,2,30500000
+Builder_Floor,Ready_to_move,Saket,3,1300,6944,3,Semi-Furnished,Resale,3,22500000
+Apartment,Ready_to_move,"Press Enclave Society, Saket",3,990,6944,3,Furnished,Resale,1,28000000
+Builder_Floor,Ready_to_move,Saket,3,2100,14705,4,Semi-Furnished,Resale,2,25000000
+Builder_Floor,Ready_to_move,Saket,4,2250,14705,4,Semi-Furnished,Resale,2,33700000
+Builder_Floor,Ready_to_move,Saket,3,1500,18000,3,Semi-Furnished,Resale,1,27000000
+Builder_Floor,Ready_to_move,Saket,4,2700,18000,4,Semi-Furnished,New_Property,2,43500000
+Builder_Floor,Ready_to_move,"RWA Flats, Saket",3,1700,18000,3,Semi-Furnished,New_Property,2,29000000
+Builder_Floor,Ready_to_move,Saket,3,1700,17647,3,Semi-Furnished,Resale,2,30000000
+Apartment,Ready_to_move,Saket,4,2050,17647,4,Semi-Furnished,New_Property,2,52100000
+Builder_Floor,Ready_to_move,Saket,3,1800,18055,3,Unfurnished,New_Property,1,32500000
+Apartment,Ready_to_move,Saket,3,1500,18055,2,Semi-Furnished,Resale,1,20500000
+Apartment,Ready_to_move,Saket,4,2000,12500,3,Semi-Furnished,Resale,1,25000000
+Builder_Floor,Ready_to_move,Saket,3,1500,12500,3,Semi-Furnished,Resale,2,30000000
+Builder_Floor,Ready_to_move,Saket,4,24300,12500,5,Semi-Furnished,Resale,2,51000000
+Builder_Floor,Ready_to_move,Saket,4,2475,12500,4,Semi-Furnished,Resale,1,31000000
+Builder_Floor,Ready_to_move,Safdarjung Enclave,3,1800,,3,Semi-Furnished,New_Property,,37500000
+Builder_Floor,Ready_to_move,"Arjun Nagar, Safdarjung Enclave",3,1300,,3,Semi-Furnished,New_Property,1,32500000
+Builder_Floor,Ready_to_move,Safdarjung Enclave,3,1500,25000,3,Semi-Furnished,New_Property,4,37500000
+Builder_Floor,Ready_to_move,Safdarjung Enclave,4,2100,25000,4,Semi-Furnished,New_Property,3,55000000
+Builder_Floor,Ready_to_move,Safdarjung Enclave,4,1800,25000,4,Semi-Furnished,New_Property,2,87500000
+Apartment,Ready_to_move,Safdarjung Enclave,2,1100,14818,2,Unfurnished,Resale,1,16300000
+Builder_Floor,Ready_to_move,Safdarjung Enclave,4,2035,14818,4,Unfurnished,New_Property,2,65000000
+Builder_Floor,Ready_to_move,Safdarjung Enclave,3,1100,14818,3,Unfurnished,Resale,1,25000000
+Builder_Floor,Ready_to_move,Safdarjung Enclave,3,1550,14818,3,Semi-Furnished,New_Property,1,38000000
+Builder_Floor,Ready_to_move,Safdarjung Enclave,2,700,14818,2,Unfurnished,Resale,1,15000000
+Apartment,Ready_to_move,"Arjun Nagar, Safdarjung Enclave",2,150,14818,1,Semi-Furnished,Resale,1,2000000
+Builder_Floor,Ready_to_move,"Arjun Nagar, Safdarjung Enclave",1,540,14818,1,Unfurnished,Resale,1,3000000
+Builder_Floor,Ready_to_move,Krishna Nagar-Safdarjung Enclave,2,810,14818,2,Semi-Furnished,Resale,1,8500000
+Builder_Floor,Ready_to_move,Safdarjung Enclave ,4,3250,14818,4,Semi-Furnished,Resale,1,55000000
+Builder_Floor,Ready_to_move,Safdarjung Enclave,3,1600,14818,3,Semi-Furnished,Resale,2,22500000
+Builder_Floor,Ready_to_move,Safdarjung Enclave,4,4000,14818,4,Semi-Furnished,Resale,1,72500000
+Apartment,Ready_to_move,Safdarjung Enclave,6,5500,14818,7,Furnished,Resale,1,160000000
+Builder_Floor,Ready_to_move,Krishna Nagar-Safdarjung Enclave,3,900,14818,3,Semi-Furnished,New_Property,1,12500000
+Apartment,Ready_to_move,Safdarjung Enclave,2,972,14818,2,Semi-Furnished,Resale,1,17000000
+Builder_Floor,Ready_to_move,Safdarjung Enclave,4,4150,14818,4,Unfurnished,New_Property,3,82500000
+Builder_Floor,Ready_to_move,Safdarjung Enclave,4,2250,14818,5,Semi-Furnished,New_Property,2,55000000
+Builder_Floor,Ready_to_move,Safdarjung Enclave,3,1650,14818,3,Semi-Furnished,New_Property,1,35000000
+Builder_Floor,Ready_to_move,Safdarjung Enclave ,4,2610,14818,4,Semi-Furnished,Resale,2,42500000
+Builder_Floor,Ready_to_move,"Arjun Nagar, Safdarjung Enclave",2,600,14818,2,Semi-Furnished,Resale,1,4700000
+Builder_Floor,Ready_to_move,Safdarjung Enclave,4,1700,14818,5,Unfurnished,Resale,2,52500000
+Builder_Floor,Ready_to_move,Safdarjung Enclave,4,2250,14818,4,Semi-Furnished,New_Property,3,80000000
+Builder_Floor,Ready_to_move,"Arjun Nagar, Safdarjung Enclave",3,880,14818,2,Unfurnished,Resale,1,11000000
+Builder_Floor,Ready_to_move,Safdarjung Enclave,4,4200,14818,5,Semi-Furnished,New_Property,3,74000000
+Builder_Floor,Ready_to_move,Safdarjung Enclave ,3,1450,14818,3,Semi-Furnished,Resale,1,37500000
+Builder_Floor,Ready_to_move,Safdarjung Enclave ,4,2200,23863,4,Semi-Furnished,New_Property,3,52500000
+Builder_Floor,Ready_to_move,"Reserve Bank Enclave, Paschim Vihar",3,1620,,3,Semi-Furnished,New_Property,,26000000
+Builder_Floor,Ready_to_move,Paschim Vihar,3,1078,,2,Unfurnished,New_Property,1,15500000
+Builder_Floor,Ready_to_move,"Pushkar Enclave, Paschim Vihar",3,1710,,3,Unfurnished,Resale,1,22000000
+Builder_Floor,Ready_to_move,Paschim Vihar Block B2,3,1150,,3,Semi-Furnished,Resale,1,21000000
+Builder_Floor,Ready_to_move,"Paschimpuri, Paschim Vihar",2,450,,2,Semi-Furnished,Resale,1,5000000
+Builder_Floor,Ready_to_move,Paschim Vihar,3,1818,,3,Unfurnished,Resale,1,22000000
+Builder_Floor,Ready_to_move,Paschim Vihar Block B4,3,1800,14722,2,Unfurnished,Resale,1,26500000
+Builder_Floor,Ready_to_move,Paschim Vihar,2,780,14722,2,Unfurnished,Resale,1,8770000
+Apartment,Ready_to_move,"DDA Lig Flats, Paschim Vihar ",1,405,14722,1,Semi-Furnished,Resale,1,4500000
+Apartment,Ready_to_move,Paschim Vihar,2,900,14722,3,Semi-Furnished,Resale,1,8500000
+Apartment,Ready_to_move,"Archana Apartment, Paschim Vihar",2,807.2925,14722,2,Unfurnished,Resale,1,8600000
+Builder_Floor,Ready_to_move,"Guru Harikishan Nagar, Paschim Vihar",4,2700,14722,3,Semi-Furnished,Resale,1,42500000
+Apartment,Ready_to_move,Paschim Vihar,3,1100,14722,2,Semi-Furnished,Resale,2,13100000
+Apartment,Ready_to_move,"Paschimpuri, Paschim Vihar",2,585,14722,2,Unfurnished,Resale,2,7000000
+Builder_Floor,Ready_to_move,"Mianwali Nagar, Paschim Vihar",3,2152.78,14722,3,Furnished,New_Property,2,30000000
+Apartment,Ready_to_move,"Navbharat Apartment, Paschim Vihar Block B1",2,960,14722,2,Semi-Furnished,Resale,2,13000000
+Builder_Floor,Ready_to_move,Paschim Vihar Block A2,4,1800,14722,3,Unfurnished,Resale,2,23100000
+Apartment,Ready_to_move,Paschim Vihar,3,1100,14722,2,Semi-Furnished,Resale,1,16000000
+Builder_Floor,Ready_to_move,Paschim Vihar,2,900,13889,2,Unfurnished,Resale,1,12500000
+Builder_Floor,Ready_to_move,"LIC Colony, Paschim Vihar",3,1620,13889,3,Furnished,New_Property,1,24500000
+Apartment,Ready_to_move,"Paschimpuri, Paschim Vihar",1,378,13889,1,Unfurnished,Resale,1,3200000
+Apartment,Ready_to_move,"DDA Lig Flats, Paschim Vihar",3,800,7875,2,Unfurnished,Resale,1,6300000
+Builder_Floor,Ready_to_move,"Pushkar Enclave, Paschim Vihar",3,1350,11111,3,Semi-Furnished,Resale,1,15000000
+Apartment,Ready_to_move,Paschim Vihar ,3,850,11111,3,Unfurnished,Resale,1,5700000
+Apartment,Ready_to_move,"Shubh Niketan, Paschim Vihar",3,1580,11111,2,Furnished,Resale,1,21000000
+Apartment,Ready_to_move,Paschim Vihar,2,820,11111,3,Unfurnished,Resale,1,7500000
+Apartment,Ready_to_move,"Ashoka Apartment, Paschim Vihar Block A2",2,594,10943,1,Semi-Furnished,Resale,1,6500000
+Builder_Floor,Ready_to_move,Paschim Vihar Block B4,3,14220,10943,3,Semi-Furnished,New_Property,1,27500000
+Builder_Floor,Ready_to_move,"Guru Harikishan Nagar, Paschim Vihar",3,800,10943,2,Unfurnished,Resale,1,12000000
+Apartment,Ready_to_move,"Sunder Apartments, Sunder Vihar, Paschim Vihar",3,1500,10943,2,Semi-Furnished,Resale,2,18000000
+Apartment,Ready_to_move,"Ashirwad Apartments, Dwarka",3,1600,,3,Semi-Furnished,Resale,1,15600000
+Apartment,Ready_to_move,"Rajasthan Apartment, Aashirwaad Chowk, Dwarka",3,1650,,3,Semi-Furnished,Resale,1,15500000
+Apartment,Ready_to_move,"Rajasthan Apartment, Aashirwaad Chowk, Dwarka",3,1600,,3,Semi-Furnished,Resale,1,15200000
+Apartment,Ready_to_move,"Gold Croft Apartment, Aashirwaad Chowk, Dwarka",3,1900,,3,Furnished,Resale,1,25000000
+Apartment,Ready_to_move,"Chanakya Apartments, Aashirwaad Chowk, Dwarka",3,1400,,2,Furnished,Resale,1,15000000
+Apartment,Ready_to_move,"Bank Apartments, Aashirwaad Chowk, Dwarka",3,1550,,2,Semi-Furnished,Resale,1,15800000
+Apartment,Ready_to_move,"Mohinder Apartments, Aashirwaad Chowk, Dwarka",4,2000,,3,Furnished,Resale,1,31500000
+Apartment,Ready_to_move,"Bank Apartments, Aashirwaad Chowk, Dwarka",3,1500,,3,Semi-Furnished,Resale,1,14000000
+Apartment,Ready_to_move,"Aashirwaad Chowk, Dwarka",3,1550,,2,Semi-Furnished,Resale,1,13200000
+Apartment,Ready_to_move,"Bank Apartments, Aashirwaad Chowk, Dwarka",3,1600,,2,Semi-Furnished,Resale,1,15800000
+Apartment,Ready_to_move,"Saheta Apartment, Aashirwaad Chowk, Dwarka",3,1600,,3,Unfurnished,Resale,1,16200000
+Apartment,Ready_to_move,"Pushpanjali Apartments, Aashirwaad Chowk, Dwarka",3,1800,,2,Semi-Furnished,Resale,1,15500000
+Apartment,Ready_to_move,"Aashirwaad Chowk, Dwarka",3,1470,,2,Semi-Furnished,Resale,1,14500000
+Apartment,Ready_to_move,"Aashirwaad Chowk, Dwarka",3,1500,,2,Semi-Furnished,Resale,1,14900000
+Apartment,Ready_to_move,"Green Heavens Apartment, Aashirwaad Chowk, Dwarka",3,1750,,3,Furnished,Resale,1,17200000
+Apartment,Ready_to_move,"Hum Sub Apartment, Aashirwaad Chowk, Dwarka",3,1650,,3,Furnished,Resale,1,18000000
+Apartment,Ready_to_move,"Aashirwaad Chowk, Dwarka",3,1850,,2,Semi-Furnished,Resale,1,15500000
+Apartment,Ready_to_move,"Bank Apartments, Aashirwaad Chowk, Dwarka",3,1480,,2,Furnished,Resale,1,15800000
+Apartment,Ready_to_move,"Defence Officers Apartment, Aashirwaad Chowk, Dwarka",2,1214,,2,Furnished,Resale,1,12600000
+Apartment,Ready_to_move,"Aashirwaad Chowk, Dwarka",3,1380,,2,Semi-Furnished,Resale,1,15000000
+Apartment,Ready_to_move,"Sanchar Vihar Apartment, Aashirwaad Chowk, Dwarka",4,1600,,2,Furnished,Resale,1,19500000
+Apartment,Ready_to_move,"Sarve Satyam Apartment, Aashirwaad Chowk, Dwarka",3,1585,,3,Semi-Furnished,Resale,1,16600000
+Apartment,Ready_to_move,"Aashirwaad Chowk, Dwarka",3,1700,,3,Semi-Furnished,Resale,1,17200000
+Apartment,Ready_to_move,"Palm Green Apartment, Aashirwaad Chowk, Dwarka",2,1200,,2,Semi-Furnished,Resale,1,13000000
+Apartment,Ready_to_move,"Neelachal, Aashirwaad Chowk, Dwarka",4,1800,,3,Semi-Furnished,Resale,1,16500000
+Apartment,Ready_to_move,"Kailash Apartments, Aashirwaad Chowk, Dwarka",2,1000,10700,2,Semi-Furnished,Resale,1,10700000
+Apartment,Ready_to_move,"New Jyoti Apartments, Aashirwaad Chowk, Dwarka",3,1500,10700,2,Furnished,Resale,1,16200000
+Apartment,Ready_to_move,"Green Heavens Apartment, Aashirwaad Chowk, Dwarka",3,1700,10700,2,Furnished,Resale,1,16500000
+Apartment,Ready_to_move,"PNB Employees Apartment, Aashirwaad Chowk, Dwarka",3,1750,10700,2,Furnished,Resale,1,14900000
+Apartment,Ready_to_move,"Sadbhawna CGHS, Aashirwaad Chowk, Dwarka",4,2700,10700,3,Furnished,Resale,1,27500000
+Apartment,Ready_to_move,Commonwealth Games Village 2010,5,3050,20492,6,Semi-Furnished,Resale,,62500000
+Apartment,Ready_to_move,"Common Wealth Games Village, Commonwealth Games Village 2010",5,3405,20558,5,Semi-Furnished,Resale,3,70000000
+Apartment,Ready_to_move,Commonwealth Games Village 2010,3,1500,20558,3,Semi-Furnished,Resale,3,35500000
+Apartment,Ready_to_move,"Common Wealth Games Village, Commonwealth Games Village 2010",3,2105,20558,3,Unfurnished,Resale,3,42100000
+Apartment,Ready_to_move,"Project Commonwealth Games Village 2010, Akshardham Temple",4,2500,17000,5,Semi-Furnished,Resale,3,42500000
+Apartment,Ready_to_move,"Common Wealth Games Village, Commonwealth Games Village 2010",3,2090,21052,4,Semi-Furnished,Resale,2,44000000
+Apartment,Ready_to_move,"Project Commonwealth Games Village 2010, Commonwealth Games Village 2010",4,2525,21052,5,Semi-Furnished,Resale,3,43200000
+Apartment,Ready_to_move,"Project Commonwealth Games Village 2010, Commonwealth Games Village 2010",4,2500,21000,4,Semi-Furnished,Resale,2,52500000
+Apartment,Ready_to_move,"Common Wealth Games Village, Commonwealth Games Village 2010",3,2100,16333,4,Furnished,Resale,2,34300000
+Apartment,Ready_to_move,"Project Commonwealth Games Village 2010, Akshardham Temple",3,2022,18793,3,Semi-Furnished,Resale,2,38000000
+Apartment,Ready_to_move,Commonwealth Games Village 2010,4,2650,19811,5,Furnished,Resale,2,52500000
+Apartment,Ready_to_move,"Common Wealth Games Village, Commonwealth Games Village 2010",3,1850,20270,3,Unfurnished,Resale,2,37500000
+Apartment,Ready_to_move,"Common Wealth Games Village, Commonwealth Games Village 2010",3,2100,17619,3,Semi-Furnished,Resale,2,37000000
+Apartment,Ready_to_move,Commonwealth Games Village 2010,3,1700,17619,4,Semi-Furnished,Resale,2,40000000
+Apartment,Ready_to_move,"Common Wealth Games Village, Commonwealth Games Village 2010",3,2105,17197,3,Semi-Furnished,Resale,2,36200000
+Apartment,Ready_to_move,"Common Wealth Games Village, Commonwealth Games Village 2010",2,1250,17197,3,Semi-Furnished,Resale,1,29000000
+Apartment,Ready_to_move,"Project Commonwealth Games Village 2010, Commonwealth Games Village 2010",4,2552,16654,5,Furnished,New_Property,3,42500000
+Apartment,Ready_to_move,Commonwealth Games Village 2010,5,3112,19280,6,Semi-Furnished,Resale,3,60000000
+Apartment,Ready_to_move,"Project Commonwealth Games Village 2010, Commonwealth Games Village 2010",3,2125,17176,3,Semi-Furnished,Resale,2,36500000
+Apartment,Ready_to_move,"Common Wealth Games Village, Commonwealth Games Village 2010",3,2065,20581,4,Semi-Furnished,Resale,2,42500000
+Apartment,Ready_to_move,"Common Wealth Games Village, Commonwealth Games Village 2010",5,3405,20999,4,Semi-Furnished,Resale,3,71500000
+Apartment,Ready_to_move,"Common Wealth Games Village, Commonwealth Games Village 2010",5,3050,21311,5,Semi-Furnished,New_Property,3,65000000
+Apartment,Ready_to_move,"Common Wealth Games Village, Commonwealth Games Village 2010",5,2300,21311,6,Semi-Furnished,Resale,3,58000000
+Apartment,Ready_to_move,Commonwealth Games Village 2010,2,1455,18900,2,Semi-Furnished,Resale,2,27500000
+Apartment,Ready_to_move,"Project Commonwealth Games Village 2010, Commonwealth Games Village 2010",5,3400,20588,5,Semi-Furnished,New_Property,3,70000000
+Apartment,Ready_to_move,"Common Wealth Games Village, Commonwealth Games Village 2010",5,3100,20967,5,Semi-Furnished,Resale,3,65000000
+Apartment,Ready_to_move,Common Wealth Games Village,2,1400,20967,3,Unfurnished,Resale,3,28600000
+Apartment,Ready_to_move,Common Wealth Games Village,3,2126,18344,3,Semi-Furnished,Resale,2,39000000
+Apartment,Ready_to_move,Commonwealth Games Village 2010,3,1815,17906,3,Semi-Furnished,Resale,2,32500000
+Apartment,Ready_to_move,"Project Commonwealth Games Village 2010, Commonwealth Games Village 2010",3,1700,17906,3,Unfurnished,Resale,2,34000000
+Apartment,Ready_to_move,Alaknanda,2,700,,2,Unfurnished,Resale,,16500000
+Apartment,Ready_to_move,"Shivalik Apartments, Alaknanda",2,980,,2,Semi-Furnished,Resale,2,13800000
+Apartment,Ready_to_move,"Narmada Apartment, Alaknanda",3,1350,,3,Semi-Furnished,Resale,2,21000000
+Apartment,Ready_to_move,"Gangotri Enclave, Alaknanda",3,1800,,3,Semi-Furnished,Resale,2,22500000
+Apartment,Ready_to_move,"Aravali Apartments, Alaknanda",2,968.751,,2,Semi-Furnished,Resale,2,15000000
+Apartment,Ready_to_move,"Narmada Apartment, Alaknanda",3,1250,,3,Semi-Furnished,New_Property,2,20000000
+Apartment,Ready_to_move,"Aravali Apartments, Alaknanda",3,1800,,3,Furnished,New_Property,2,20000000
+Builder_Floor,Ready_to_move,"Shivalik Apartments, Alaknanda",3,1400,,2,Semi-Furnished,Resale,2,26000000
+Apartment,Ready_to_move,"Narmada Apartment, Alaknanda",3,1000,,3,Semi-Furnished,Resale,2,19500000
+Apartment,Ready_to_move,"Tara Apartment, Alaknanda",4,1800,,2,Semi-Furnished,Resale,1,21500000
+Apartment,Ready_to_move,Alaknanda,3,1500,,3,Unfurnished,New_Property,1,26500000
+Apartment,Ready_to_move,"Narmada Apartment, Alaknanda",3,1600,12500,3,Semi-Furnished,Resale,2,20000000
+Apartment,Ready_to_move,"Narmada Apartment, Alaknanda ",3,1400,12500,3,Furnished,Resale,1,18000000
+Apartment,Ready_to_move,Alaknanda,3,1400,12500,2,Unfurnished,Resale,1,19000000
+Builder_Floor,Ready_to_move,Greater Kailash 4 Nri Colony,4,2700,12500,4,Unfurnished,Resale,2,36500000
+Apartment,Ready_to_move,Alaknanda,2,1100,12500,2,Unfurnished,Resale,2,15000000
+Apartment,Ready_to_move,Alaknanda,2,1200,12500,2,Semi-Furnished,Resale,2,17500000
+Apartment,Ready_to_move,Alaknanda,2,1400,12500,2,Semi-Furnished,Resale,2,14000000
+Apartment,Ready_to_move,"Project Gangotri Enclave, Alaknanda",3,1500,12500,3,Semi-Furnished,Resale,2,21000000
+Apartment,Ready_to_move,Alaknanda,3,1320,12500,2,Unfurnished,Resale,2,15600000
+Apartment,Ready_to_move,"Project Gangotri Enclave, Gangotri Enclave, Alaknanda",3,1300,12500,3,Unfurnished,Resale,2,19000000
+Apartment,Ready_to_move,"Narmada Apartment, Alaknanda",2,1150,12500,2,Unfurnished,Resale,1,16500000
+Apartment,Ready_to_move,Alaknanda,3,1440,12500,3,Unfurnished,Resale,1,19000000
+Apartment,Ready_to_move,"Nilgiri Apartment, Alaknanda",2,1400,12500,2,Unfurnished,Resale,1,16500000
+Builder_Floor,Ready_to_move,Alaknanda,1,450,12500,1,Semi-Furnished,Resale,1,3000000
+Apartment,Ready_to_move,"Yamuna Apartment, Alaknanda",2,1300,11538,2,Semi-Furnished,Resale,1,15000000
+Apartment,Ready_to_move,"Nilgiri Apartment, Alaknanda",2,1200,11538,2,Unfurnished,Resale,1,14300000
+Apartment,Ready_to_move,"Nilgiri Apartment, Alaknanda",3,1300,11538,2,Unfurnished,Resale,1,18500000
+Apartment,Ready_to_move,"Tara Apartment, Alaknanda ",3,1400,11538,3,Furnished,Resale,1,19000000
+Apartment,Ready_to_move,Alaknanda,3,1400,11538,3,Semi-Furnished,Resale,1,19000000
+,Ready_to_move,"Sarita Vihar, Mathura Road",3,1500,,2,,Resale,1,13500000
+Apartment,Ready_to_move,"DDA Flats, Sarita Vihar, Mathura Road ",4,1600,,2,Semi-Furnished,Resale,2,15800000
+Apartment,Ready_to_move,"DDA Flats Sarita Vihar, Sarita Vihar, Mathura Road",10,1200,,4,Semi-Furnished,Resale,2,17000000
+Apartment,Ready_to_move,"DDA Flats, Sarita Vihar, Mathura Road",4,1600,,2,Semi-Furnished,Resale,1,15500000
+Apartment,Ready_to_move,"DDA Flats Sarita Vihar, Sarita Vihar, Mathura Road",3,1250,,2,Semi-Furnished,Resale,2,16000000
+Apartment,Ready_to_move,"DDA Flats Sarita Vihar, Sarita Vihar, Mathura Road",2,950,,2,Furnished,Resale,2,12900000
+Apartment,Ready_to_move,"DDA Flats Sarita Vihar, Sarita Vihar, Mathura Road",3,1200,,3,Furnished,Resale,2,13500000
+Apartment,Ready_to_move,"DDA Flats Sarita Vihar, Sarita Vihar, Mathura Road",4,1400,,2,Furnished,Resale,2,17800000
+Apartment,Ready_to_move,"DDA Flats Sarita Vihar, Sarita Vihar, Mathura Road",2,950,,2,Furnished,Resale,2,13200000
+Apartment,Ready_to_move,"DDA Flats Sarita Vihar, Sarita Vihar, Mathura Road",3,1350,,3,Semi-Furnished,Resale,2,14000000
+Apartment,Ready_to_move,"DDA Flats Sarita Vihar, Sarita Vihar, Mathura Road",4,1550,,2,Furnished,Resale,2,17500000
+Apartment,Ready_to_move,"DDA Flats Sarita Vihar, Sarita Vihar, Mathura Road",3,1300,,2,Semi-Furnished,Resale,2,17000000
+Apartment,Ready_to_move,"DDA Flats Sarita Vihar, Sarita Vihar Pocket K",2,1000,,2,Furnished,Resale,2,13000000
+Apartment,Ready_to_move,"DDA Flats Sarita Vihar, Sarita Vihar Pocket K",3,1500,,3,Furnished,Resale,2,17000000
+Apartment,Ready_to_move,"DDA Flats Sarita Vihar, Sarita Vihar, Mathura Road",2,950,,2,Furnished,Resale,2,12700000
+Apartment,Ready_to_move,"DDA Flats Sarita Vihar, Sarita Vihar, Mathura Road",3,1200,,2,Furnished,Resale,2,13500000
+Apartment,Ready_to_move,"DDA Flats Sarita Vihar, Sarita Vihar, Mathura Road",4,1400,,2,Furnished,Resale,2,17400000
+Apartment,Ready_to_move,"DDA Flats Sarita Vihar, Sarita Vihar, Mathura Road",4,1500,,2,Furnished,Resale,2,17800000
+Apartment,Ready_to_move,"DDA Flats Sarita Vihar, Sarita Vihar, Mathura Road",2,1050,,2,Furnished,Resale,2,12700000
+Apartment,Ready_to_move,"DDA Flats Sarita Vihar, Sarita Vihar, Mathura Road",4,1550,,2,Furnished,Resale,2,16200000
+Apartment,Ready_to_move,"DDA Flats Sarita Vihar, Sarita Vihar, Mathura Road",2,950,,2,Furnished,Resale,2,11100000
+Apartment,Ready_to_move,"DDA Flats Sarita Vihar,  Mathura Road",2,1150,,2,Furnished,Resale,2,13600000
+Apartment,Ready_to_move,"DDA Flats Sarita Vihar, Sarita Vihar Pocket K",2,1150,,2,Furnished,Resale,2,13100000
+Apartment,Ready_to_move,"DDA Flats Sarita Vihar,  Mathura Road",2,1150,,2,Furnished,Resale,2,12500000
+Apartment,Ready_to_move,"DDA Flats Sarita Vihar, Mathura Road",3,1500,,2,Furnished,Resale,2,13600000
+Apartment,Ready_to_move,"Sidharth Enclave, Kilokri, Ring Road",4,1800,6667,4,Furnished,New_Property,2,12000000
+Apartment,Ready_to_move,"Sidharth Enclave, Kilokri, Ring Road",3,1300,15384,3,Furnished,New_Property,1,20000000
+Apartment,Ready_to_move,Sarita Vihar Pocket B,2,1150,15384,2,Unfurnished,Resale,1,13500000
+Apartment,Ready_to_move,Sarita Vihar Pocket F,3,1500,15384,2,Unfurnished,Resale,1,14000000
+Apartment,Ready_to_move,"DDA Flats, Sarita Vihar, Mathura Road ",2,1150,15384,2,Semi-Furnished,Resale,2,10800000
+Builder_Floor,Ready_to_move,"New Manglapuri, Sultanpur",3,900,,2,Semi-Furnished,New_Property,1,9000000
+Builder_Floor,Ready_to_move,"New Manglapuri, Sultanpur",3,1150,,2,Semi-Furnished,Resale,1,6300000
+Apartment,Ready_to_move,Sultanpur Extension,3,1000,,3,Semi-Furnished,New_Property,1,5500000
+Apartment,Ready_to_move,"New Manglapuri, Sultanpur",1,450,5222,1,Semi-Furnished,Resale,1,2350000
+Apartment,Ready_to_move,Sultanpur,3,1350,5222,3,Semi-Furnished,Resale,1,8500000
+Apartment,Ready_to_move,Sultanpur Extension,1,445,5222,2,Semi-Furnished,Resale,1,1650000
+Apartment,Ready_to_move,"Manglapuri, Sultanpur",2,1200,8333,2,Semi-Furnished,Resale,1,10000000
+Builder_Floor,Ready_to_move,"Indra Park Palam, Manglapuri",1,50,8333,1,Unfurnished,Resale,1,1500000
+Builder_Floor,Ready_to_move,Sultanpur ,2,1100,8333,2,Semi-Furnished,Resale,1,2800000
+Builder_Floor,Ready_to_move,Sultanpur Extension,2,700,3714,2,Semi-Furnished,Resale,1,2600000
+Builder_Floor,Ready_to_move,"New Manglapuri, Sultanpur",1,500,3714,1,Furnished,Resale,1,2350000
+Apartment,Ready_to_move,Sultanpur Extension,1,540,3714,1,Unfurnished,Resale,1,2350000
+Builder_Floor,Ready_to_move,Sultanpur,1,450,3714,1,Unfurnished,New_Property,1,2000000
+Builder_Floor,Almost_ready,Sultanpur,2,800,3714,2,Semi-Furnished,Resale,1,5000000
+Builder_Floor,Ready_to_move,"New Manglapuri, Sultanpur",2,700,3714,2,Semi-Furnished,Resale,1,3500000
+Builder_Floor,Almost_ready,Sultanpur,2,750,3714,2,Semi-Furnished,Resale,1,4500000
+Builder_Floor,Ready_to_move,Sultanpur,2,750,3714,2,Unfurnished,Resale,1,4000000
+Builder_Floor,Ready_to_move,"New Manglapuri, Sultanpur",3,1600,3714,3,Unfurnished,Resale,1,10800000
+Builder_Floor,Ready_to_move,"New Manglapuri, Sultanpur",3,1000,3714,2,Unfurnished,New_Property,1,10000000
+Builder_Floor,Ready_to_move,"New Manglapuri, Sultanpur",3,1600,3714,3,Unfurnished,Resale,1,10800000
+Builder_Floor,Ready_to_move,"Manglapuri, Sultanpur",3,900,3714,2,Semi-Furnished,Resale,1,9000000
+Apartment,Ready_to_move,"New Manglapuri, Sultanpur",3,1700,3714,3,Semi-Furnished,New_Property,1,8500000
+Builder_Floor,Ready_to_move,"New Manglapuri, Sultanpur",3,1100,3714,2,Semi-Furnished,Resale,1,6000000
+Apartment,Ready_to_move,"New Manglapuri, Sultanpur",3,1000,3714,3,Semi-Furnished,New_Property,1,5500000
+Builder_Floor,Ready_to_move,"Manglapuri, Sultanpur",3,1000,7000,2,Semi-Furnished,New_Property,1,7000000
+Apartment,Ready_to_move,Sultanpur,3,1100,5455,2,Furnished,Resale,1,6000000
+Builder_Floor,Ready_to_move,"Manglapuri, Sultanpur",3,765,4837,2,Unfurnished,Resale,1,3700000
+Builder_Floor,Ready_to_move,"Indra Park Palam, Manglapuri",2,900,3444,2,Semi-Furnished,Resale,1,3100000
+Apartment,Ready_to_move,Sultanpur,2,600,3444,2,Unfurnished,Resale,1,4500000
+Builder_Floor,Ready_to_move,"Indra Park Palam, Manglapuri",1,360,4167,1,Semi-Furnished,Resale,1,1500000
+Builder_Floor,Almost_ready,Chhattarpur,3,950,,2,Semi-Furnished,New_Property,,7090000
+Builder_Floor,Ready_to_move,Chhattarpur ,2,3600,,2,Semi-Furnished,New_Property,1,4500000
+Builder_Floor,Almost_ready,"JVTS Gardens, Chhattarpur",4,1305,,3,Unfurnished,New_Property,1,5500000
+Apartment,Almost_ready,Chhattarpur,3,1800,,4,Semi-Furnished,New_Property,2,63000000
+Builder_Floor,Almost_ready,Chhattarpur,3,950,,2,Semi-Furnished,New_Property,2,6990000
+Apartment,Ready_to_move,Chhattarpur,2,800,,2,Semi-Furnished,New_Property,1,4400000
+Builder_Floor,Ready_to_move,Chhattarpur Enclave Phase2,4,1800,,4,Semi-Furnished,Resale,1,12500000
+Builder_Floor,Ready_to_move,Chhattarpur,2,800,,2,Semi-Furnished,New_Property,1,3000000
+Builder_Floor,Ready_to_move,Chhattarpur,2,675,,2,Semi-Furnished,New_Property,1,2800000
+Builder_Floor,Almost_ready,"JVTS Gardens, Chhattarpur",3,1175,,3,Unfurnished,New_Property,4,5000000
+Builder_Floor,Ready_to_move,Chhattarpur,3,1500,,3,Unfurnished,Resale,4,6000000
+Apartment,Ready_to_move,Chhattarpur,2,810,,2,Unfurnished,Resale,4,4500000
+Apartment,Ready_to_move,Chhattarpur Enclave Phase2,2,630,,2,Unfurnished,Resale,1,2800000
+Builder_Floor,Ready_to_move,Chhattarpur,2,650,,2,Semi-Furnished,Resale,1,2500000
+Builder_Floor,Ready_to_move,Chhattarpur Enclave Phase2,4,1800,,4,Semi-Furnished,New_Property,1,8500000
+Apartment,Ready_to_move,Chhattarpur,2,725,4138,2,Furnished,Resale,1,3000000
+Builder_Floor,Ready_to_move,Chhattarpur,3,900,4138,2,Semi-Furnished,New_Property,1,4900000
+Builder_Floor,Ready_to_move,Chhattarpur,2,750,4138,2,Unfurnished,New_Property,1,3500000
+Builder_Floor,Ready_to_move,Chhattarpur Enclave Phase2,2,700,4138,2,Semi-Furnished,New_Property,1,3000000
+Builder_Floor,Almost_ready,Chhattarpur,3,950,4138,2,Semi-Furnished,New_Property,1,7020000
+Apartment,Almost_ready,"DLF Chattarpur Farms, Chhattarpur",3,1600,4138,4,Unfurnished,New_Property,1,60000000
+Builder_Floor,Ready_to_move,Chhattarpur,2,900,4138,2,Semi-Furnished,New_Property,1,3500000
+Builder_Floor,Ready_to_move,Chhattarpur,3,1500,4138,3,Semi-Furnished,New_Property,1,7000000
+Apartment,Ready_to_move,Chhattarpur Enclave Phase2,2,500,4138,1,Semi-Furnished,Resale,2,7000000
+Builder_Floor,Ready_to_move,Chhattarpur Enclave Phase2,3,1035,4138,3,Semi-Furnished,New_Property,1,4500000
+Builder_Floor,Ready_to_move,"Aravali Tower, Chhattarpur",3,825,4138,2,Semi-Furnished,New_Property,1,5990000
+Builder_Floor,Ready_to_move,Chhattarpur,3,1300,4138,3,Semi-Furnished,New_Property,1,4400000
+Builder_Floor,Ready_to_move,Chhattarpur,2,765,4138,2,Unfurnished,New_Property,4,2500000
+Builder_Floor,Ready_to_move,Chhattarpur Enclave Phase2,1,580,4138,1,Semi-Furnished,New_Property,1,1600000
+Builder_Floor,Ready_to_move,Chhattarpur Enclave Phase2,3,1750,4138,3,Semi-Furnished,New_Property,1,6500000
+Apartment,Ready_to_move,Mehrauli,2,650,,2,Semi-Furnished,Resale,,2750000
+Apartment,Ready_to_move,Mehrauli,1,405,,1,Semi-Furnished,New_Property,,1500000
+Builder_Floor,Ready_to_move,Mehrauli,2,675,3259,1,Unfurnished,Resale,,2200000
+Apartment,Ready_to_move,Mehrauli,2,850,3294,2,Semi-Furnished,Resale,1,2800000
+Apartment,Ready_to_move,Mehrauli,3,800,3294,3,Semi-Furnished,Resale,1,4500000
+Apartment,Ready_to_move,Mehrauli,1,405,3294,1,Furnished,Resale,1,1800000
+Builder_Floor,Ready_to_move,Mehrauli,3,1350,3294,3,Unfurnished,New_Property,1,8500000
+Apartment,Ready_to_move,Mehrauli,3,1350,3294,3,Unfurnished,New_Property,1,8500000
+Builder_Floor,Ready_to_move,Mehrauli,1,450,3294,1,Unfurnished,New_Property,1,1700000
+Builder_Floor,Ready_to_move,Mehrauli ,3,1300,3294,3,Semi-Furnished,New_Property,2,7000000
+Builder_Floor,Ready_to_move,Mehrauli,3,1050,3294,2,Unfurnished,New_Property,2,5600000
+Builder_Floor,Ready_to_move,Mehrauli,4,1675,8060,3,Furnished,Resale,2,13500000
+Builder_Floor,Almost_ready,Mehrauli,3,1250,8060,3,Unfurnished,New_Property,2,8500000
+Apartment,Ready_to_move,Mehrauli,3,1080,8060,3,Unfurnished,New_Property,5,6000000
+Builder_Floor,Almost_ready,"Andheria Mor, Mehrauli",3,1170,8060,3,Unfurnished,New_Property,5,7200000
+Apartment,Ready_to_move,Mehrauli ,3,1250,8060,2,Semi-Furnished,Resale,1,6500000
+Apartment,Ready_to_move,"Andheria Mor, Mehrauli",3,1500,8060,3,Semi-Furnished,New_Property,1,8400000
+Apartment,Ready_to_move,Mehrauli,3,1350,8060,3,Unfurnished,New_Property,1,8500000
+Builder_Floor,Ready_to_move,Mehrauli,2,855,4678,2,Semi-Furnished,Resale,1,4000000
+Builder_Floor,Ready_to_move,Mehrauli,1,540,3148,1,Unfurnished,Resale,1,1700000
+Builder_Floor,Ready_to_move,Mehrauli,3,1044.0983,3148,2,Unfurnished,Resale,1,6000000
+Apartment,Ready_to_move,Mehrauli,1,405,3148,1,Semi-Furnished,Resale,1,1600000
+Apartment,Ready_to_move,Mehrauli,1,500,4200,2,Semi-Furnished,Resale,1,2100000
+Apartment,Ready_to_move,Mehrauli,1,450,3778,1,Furnished,Resale,1,1700000
+Apartment,Ready_to_move,"Andheria Mor, Mehrauli",1,405,3778,1,Unfurnished,Resale,1,1500000
+Builder_Floor,Ready_to_move,Mehrauli,1,405,2963,1,Unfurnished,Resale,1,1200000
+Apartment,Ready_to_move,"Brijwasi Colony, Mehrauli",1,450,3667,1,Unfurnished,Resale,1,1650000
+Builder_Floor,Ready_to_move,Mehrauli,2,173,3667,2,Unfurnished,Resale,1,3500000
+Builder_Floor,Ready_to_move,Mehrauli,3,1100,7727,2,Unfurnished,Resale,1,8500000
+Builder_Floor,Ready_to_move,Mehrauli,2,600,5333,2,Unfurnished,Resale,1,3200000
+Builder_Floor,Ready_to_move,Mahavir Enclave,3,800,,2,Semi-Furnished,New_Property,1,4400000
+Builder_Floor,Almost_ready,Mahavir Enclave Part 1,4,990,,3,Unfurnished,New_Property,1,7200000
+Builder_Floor,Ready_to_move,Mahavir Enclave Part 1,3,1100,,2,Semi-Furnished,New_Property,1,7500000
+Apartment,Ready_to_move,Mahavir Enclave,3,1100,,2,Unfurnished,New_Property,1,6500000
+Builder_Floor,Ready_to_move,Mahavir Enclave Part 1,2,527,,2,Semi-Furnished,Resale,1,3500000
+Builder_Floor,Ready_to_move,Mahavir Enclave Part 1 ,2,1000,,2,Semi-Furnished,Resale,1,6500000
+Builder_Floor,Ready_to_move,Mahavir Enclave Part 1,3,1000,,2,Semi-Furnished,Resale,1,6200000
+Builder_Floor,Ready_to_move,Mahavir Enclave Part 1,1,450,,1,Semi-Furnished,New_Property,1,2500000
+Apartment,Ready_to_move,Mahavir Enclave,2,600,,2,Semi-Furnished,New_Property,1,3000000
+Builder_Floor,Ready_to_move,Mahavir Enclave Part 1,3,950,,2,Furnished,New_Property,1,6000000
+Apartment,Ready_to_move,Mahavir Enclave Part 1,3,855,,2,Unfurnished,Resale,1,4800000
+Builder_Floor,Ready_to_move,Mahavir Enclave,2,770,4922,2,Semi-Furnished,New_Property,1,3790000
+Apartment,Ready_to_move,Mahavir Enclave,3,810,4922,2,Semi-Furnished,New_Property,1,4200000
+Apartment,Ready_to_move,Mahavir Enclave,2,710,4922,2,Unfurnished,Resale,1,2900000
+Builder_Floor,Ready_to_move,Mahavir Enclave Part 1,3,950,4922,2,Unfurnished,Resale,1,5000000
+Builder_Floor,Ready_to_move,Mahavir Enclave Part 1,1,450,4922,1,Semi-Furnished,New_Property,1,2100000
+Apartment,Ready_to_move,Mahavir Enclave Part 1,2,500,4922,2,Semi-Furnished,Resale,1,3200000
+Apartment,Ready_to_move,Mahavir Enclave Part 1,2,600,4922,1,Semi-Furnished,Resale,1,3000000
+Builder_Floor,Ready_to_move,Mahavir Enclave Part 1,1,420,4922,1,Unfurnished,Resale,1,2300000
+Builder_Floor,Almost_ready,Mahavir Enclave Part 1,3,900,6556,2,Semi-Furnished,New_Property,1,5900000
+Apartment,Ready_to_move,Mahavir Enclave Part 1,3,945,5820,2,Semi-Furnished,Resale,1,5500000
+Builder_Floor,Ready_to_move,Mahavir Enclave,2,565,5820,2,Unfurnished,Resale,1,3500000
+Apartment,Ready_to_move,Mahavir Enclave Part 3,2,450,3778,1,Semi-Furnished,Resale,1,1700000
+Builder_Floor,Ready_to_move,Mahavir Enclave,1,430,3778,1,Unfurnished,New_Property,1,1850000
+Builder_Floor,Ready_to_move,Mahavir Enclave,2,550,3778,2,Unfurnished,Resale,1,2300000
+Builder_Floor,Ready_to_move,Mahavir Enclave,3,810,42222,2,Furnished,Resale,1,3800000
+Builder_Floor,Ready_to_move,Mahavir Enclave Part 1,3,720,42222,2,Semi-Furnished,Resale,1,4500000
+Apartment,Ready_to_move,"Vijay Enclave, Mahavir Enclave",2,360,42222,1,Semi-Furnished,New_Property,1,2200000
+Builder_Floor,Ready_to_move,Mahavir Enclave,3,820,42222,2,Semi-Furnished,Resale,1,5200000
+Builder_Floor,Ready_to_move,Mahavir Enclave Part 3,2,459,43137,2,Semi-Furnished,Resale,1,2200000
+Apartment,Ready_to_move,Narela Sector A1 ,1,378,,2,Unfurnished,Resale,2,1500000
+Apartment,Ready_to_move,"DDA Flats Pocket 6 Sector A10, Narela",1,450,4889,1,Furnished,Resale,2,2200000
+Apartment,Ready_to_move,"DDA Flats Pocket 1 Sector A9, Narela",2,900,4222,2,Semi-Furnished,Resale,2,3800000
+Apartment,Ready_to_move,"DDA Janta Flats, Tikri Khurd Sector B2, Narela",1,360,5000,1,Unfurnished,Resale,1,1800000
+Apartment,Ready_to_move,Narela,2,559.7228,5092,2,Furnished,Resale,3,2850000
+Apartment,Ready_to_move,Narela,1,350,7143,1,Unfurnished,Resale,3,2500000
+Apartment,Ready_to_move,Narela,1,365,7143,1,Unfurnished,Resale,39,3500000
+Apartment,Ready_to_move,"DDA Lig Flats, Narela",1,390,5128,1,Unfurnished,Resale,39,2000000
+Apartment,Ready_to_move,"DDA Flats Pocket 3, Narela",1,350,5128,1,Unfurnished,Resale,39,3000000
+Apartment,Ready_to_move,"DDA Lig Flats, Narela",1,210,5128,1,Semi-Furnished,New_Property,39,2000000
+Apartment,Ready_to_move,"DDA Lig Flats, Narela",1,50,5128,1,Unfurnished,New_Property,39,3500000
+Apartment,Ready_to_move,"DDA Pocket H, Narela",1,500,3600,1,Unfurnished,Resale,39,1800000
+Apartment,Ready_to_move,"DDA Lig Flats, Narela",1,350,4571,1,Unfurnished,Resale,39,1600000
+Builder_Floor,Ready_to_move,"DDA Lig Flats, Narela",1,379,4221,1,Unfurnished,Resale,1,1600000
+Apartment,Ready_to_move,Narela,1,236.8058,4221,1,Unfurnished,Resale,1,2000000
+Apartment,Ready_to_move,Narela Mandi,1,445,4221,1,Unfurnished,Resale,1,1500000
+Apartment,Ready_to_move,"DDA Flats Pocket 6 Sector A10, Narela",2,452.0838,6636,1,Furnished,Resale,1,3000000
+Apartment,Ready_to_move,Narela,1,350,4270,1,Unfurnished,New_Property,1,1490000
+Apartment,Ready_to_move,"DDA Lig Flats, Narela",1,437,4270,1,Furnished,New_Property,1,3500000
+Apartment,Ready_to_move,"Bhorgarh, Narela",3,61,4270,3,Unfurnished,Resale,1,4000000
+Builder_Floor,Ready_to_move,Narela,2,495,4270,2,Unfurnished,Resale,1,1750000
+Apartment,Ready_to_move,Narela Sector A9,2,900,4270,2,Unfurnished,Resale,1,4600000
+Builder_Floor,Ready_to_move,"DDA Lig Flats, Narela",1,350,5143,1,Semi-Furnished,Resale,1,1800000
+Builder_Floor,Ready_to_move,Narela,2,585,3248,2,Unfurnished,Resale,1,1900000
+Apartment,Ready_to_move,Narela Sector A5,1,198,5051,1,Furnished,Resale,1,1000000
+Apartment,Ready_to_move,"DDA Lig Flats, Narela",1,4900,5051,1,Unfurnished,New_Property,1,1000000
+Builder_Floor,Ready_to_move,"DDA Flats Pocket 3, Narela",1,2077.4327,5051,1,Unfurnished,Resale,1,1000000
+Apartment,Ready_to_move,"DDA Lig Flats, Narela",1,50,5051,1,Semi-Furnished,New_Property,1,3500000
+Builder_Floor,Ready_to_move,Narela,3,990,5051,2,Furnished,Resale,1,5000000
+Apartment,Ready_to_move,Narela,1,425,5176,1,Unfurnished,Resale,1,2200000
+Builder_Floor,Almost_ready,Malviya Nagar,2,750,,2,Unfurnished,New_Property,,13000000
+Builder_Floor,Ready_to_move,"Shivalik, Malviya Nagar",3,1400,,3,Semi-Furnished,New_Property,2,34000000
+Builder_Floor,Ready_to_move,"Geetanjali Enclave, Malviya Nagar",4,3600,,4,Semi-Furnished,New_Property,3,60000000
+Builder_Floor,Ready_to_move,"Geetanjali Enclave, Malviya Nagar",4,3000,,5,Semi-Furnished,New_Property,4,74500000
+Builder_Floor,Almost_ready,"Geetanjali Enclave, Malviya Nagar",4,2750,,5,Unfurnished,New_Property,2,75000000
+Builder_Floor,Ready_to_move,"Geetanjali Enclave, Malviya Nagar",4,2050,,4,Semi-Furnished,New_Property,2,62500000
+Builder_Floor,Ready_to_move,"Geetanjali Enclave Project, Geetanjali Enclave, Malviya Nagar",4,3000,14888,4,Unfurnished,New_Property,2,67000000
+Builder_Floor,Ready_to_move,Malviya Nagar,2,850,14888,2,Unfurnished,Resale,2,8500000
+Builder_Floor,Almost_ready,Malviya Nagar,2,750,14888,2,Unfurnished,New_Property,2,11500000
+Builder_Floor,Ready_to_move,"Geetanjali Enclave Project, Geetanjali Enclave, Malviya Nagar",4,2600,14888,5,Semi-Furnished,New_Property,3,52500000
+Builder_Floor,Ready_to_move,Malviya Nagar,2,800,14888,2,Semi-Furnished,New_Property,1,12000000
+Builder_Floor,Ready_to_move,Malviya Nagar,2,550,14888,2,Semi-Furnished,Resale,2,10700000
+Apartment,Ready_to_move,Malviya Nagar,2,700,14888,2,Semi-Furnished,Resale,1,9000000
+Builder_Floor,Ready_to_move,"Geetanjali Enclave, Malviya Nagar",3,2316,14888,4,Furnished,Resale,1,100000000
+Apartment,Ready_to_move,"Khirki extension, Malviya Nagar",3,900,14888,2,Semi-Furnished,Resale,1,6200000
+Builder_Floor,Ready_to_move,Malviya Nagar,3,100,14888,2,Semi-Furnished,Resale,1,17000000
+Builder_Floor,Ready_to_move,Malviya Nagar,2,900,14888,3,Semi-Furnished,Resale,2,12500000
+Builder_Floor,Ready_to_move,Malviya Nagar,2,1500,14888,2,Semi-Furnished,New_Property,3,13000000
+Builder_Floor,Ready_to_move,"Khirki extension, Malviya Nagar",3,650,14888,2,Unfurnished,Resale,3,4200000
+Builder_Floor,Ready_to_move,Malviya Nagar,4,2000,14888,4,Semi-Furnished,New_Property,2,36000000
+Apartment,Ready_to_move,Malviya Nagar,1,500,14888,1,Unfurnished,Resale,2,2300000
+Builder_Floor,Ready_to_move,Malviya Nagar,2,1125,7200,2,Unfurnished,Resale,2,8100000
+Builder_Floor,Ready_to_move,Malviya Nagar,3,1300,7200,3,Semi-Furnished,Resale,1,10000000
+Builder_Floor,Ready_to_move,"Geetanjali Enclave, Malviya Nagar",4,2500,7200,5,Unfurnished,New_Property,1,62500000
+Builder_Floor,Ready_to_move,"Geetanjali Enclave, Malviya Nagar",4,2200,7200,5,Semi-Furnished,New_Property,2,65000000
+Builder_Floor,Ready_to_move,Malviya Nagar,3,1290,7200,2,Semi-Furnished,Resale,2,20000000
+Builder_Floor,Ready_to_move,"Geetanjali Enclave, Malviya Nagar",4,2250,7200,4,Semi-Furnished,New_Property,2,57500000
+Builder_Floor,Ready_to_move,"Shivalik, Malviya Nagar",3,1350,7200,3,Semi-Furnished,New_Property,2,30000000
+Builder_Floor,Ready_to_move,"Shivalik, Malviya Nagar",3,1400,21429,3,Semi-Furnished,New_Property,1,30000000
+Builder_Floor,Ready_to_move,"Shivalik, Malviya Nagar",3,1700,21429,3,Unfurnished,New_Property,2,30000000
+Apartment,Ready_to_move,"Dilshad Colony, Dilshad Garden",1,450,,1,Unfurnished,Resale,,3300000
+Apartment,Ready_to_move,"Guru Teg Bahadur Enclave, Dilshad Garden",2,750,,1,Unfurnished,Resale,,7350000
+Apartment,Ready_to_move,Dilshad Garden ,4,1500,,1,Unfurnished,Resale,,12500000
+Apartment,Ready_to_move,"Dilshad Colony, Dilshad Garden",1,400,,1,Semi-Furnished,Resale,1,3500000
+Builder_Floor,Ready_to_move,"Dilshad Colony, Dilshad Garden",2,650,,2,Unfurnished,Resale,1,6500000
+Builder_Floor,Ready_to_move,"Dilshad Colony, Dilshad Garden",2,900,7666,2,Furnished,Resale,2,6900000
+Builder_Floor,Ready_to_move,"Dilshad Colony, Dilshad Garden",1,400,7666,1,Unfurnished,Resale,1,3600000
+Apartment,Ready_to_move,"Dilshad Colony, Dilshad Garden",3,900,7666,2,Semi-Furnished,Resale,2,13500000
+Apartment,Ready_to_move,"DDA Flats Block A, Dilshad Garden",3,1000,9200,2,Furnished,Resale,1,9200000
+Apartment,Ready_to_move,"Dilshad Colony, Dilshad Garden",1,405,9200,1,Unfurnished,Resale,1,2500000
+Apartment,Ready_to_move,"DDA Flats Block A, Dilshad Garden",3,1700,9200,2,Furnished,Resale,1,17000000
+Apartment,Ready_to_move,Dilshad Garden,3,800,9200,2,Semi-Furnished,Resale,1,9030000
+Builder_Floor,Ready_to_move,"Dilshad Colony, Dilshad Garden",3,1076.39,8640,2,Unfurnished,Resale,10,9300000
+Apartment,Ready_to_move,"DDA Pocket JK, Dilshad Garden",2,750,8640,1,Semi-Furnished,New_Property,2,6500000
+Builder_Floor,Ready_to_move,"Dilshad Colony, Dilshad Garden",2,460,8640,1,Unfurnished,Resale,2,3300000
+Builder_Floor,Ready_to_move,"Dilshad Colony, Dilshad Garden",1,370,6486,1,Unfurnished,Resale,2,2400000
+Builder_Floor,Ready_to_move,"Dilshad Colony, Dilshad Garden",3,1800,8333,3,Semi-Furnished,New_Property,1,15000000
+Apartment,Ready_to_move,Dilshad Garden,3,1080,8333,1,Unfurnished,New_Property,1,7000000
+Apartment,Ready_to_move,"DDA Pocket E, Dilshad Garden",1,350,12000,1,Unfurnished,Resale,1,4200000
+Apartment,Ready_to_move,Dilshad Garden,2,500,12000,1,Furnished,Resale,1,5800000
+Apartment,Ready_to_move,"Dilshad Colony, Dilshad Garden",3,900,12000,2,Semi-Furnished,Resale,1,4800000
+Apartment,Ready_to_move,"Dilshad Colony, Dilshad Garden",2,800,9375,2,Semi-Furnished,Resale,1,7500000
+Apartment,Ready_to_move,"DDA Flats Pocket O, Dilshad Garden",1,350,9375,1,Unfurnished,Resale,1,3000000
+Apartment,Ready_to_move,Dilshad Garden,1,430.556,9375,1,Unfurnished,Resale,1,4300000
+Builder_Floor,Ready_to_move,"Dilshad Colony, Dilshad Garden",1,500,5200,1,Semi-Furnished,Resale,1,2600000
+Apartment,Ready_to_move,Dilshad Garden,2,1450,5200,2,Unfurnished,Resale,1,7000000
+Builder_Floor,Ready_to_move,"Dilshad Colony, Dilshad Garden",2,800,7500,2,Unfurnished,Resale,1,6000000
+Apartment,Ready_to_move,"Dilshad Colony, Dilshad Garden",2,1000,6700,2,Semi-Furnished,Resale,1,6700000
+Apartment,Ready_to_move,"DDA Pocket I, Dilshad Garden",3,1000,9500,3,Furnished,Resale,1,9500000
+Apartment,Ready_to_move,"DDA Flats Block A, Dilshad Garden",3,1600,10625,2,Semi-Furnished,Resale,1,17000000
+Apartment,Ready_to_move,Vasundhara Enclave,2,900,,2,Semi-Furnished,Resale,,8000000
+Apartment,Ready_to_move,Vasundhara Enclave,3,1500,,3,Semi-Furnished,Resale,1,12000000
+Apartment,Ready_to_move,Vasundhara Enclave,2,1050,,2,Semi-Furnished,Resale,1,9000000
+Apartment,Ready_to_move,"Samrat Apartment, Vasundhara Enclave",3,1300,,2,Semi-Furnished,Resale,2,11500000
+Apartment,Ready_to_move,"Mangal Apartment, Vasundhara Enclave ",4,1600,,3,Furnished,Resale,1,20000000
+Apartment,Ready_to_move,"Prayag Apartments, Vasundhara Enclave ",2,900,,2,Semi-Furnished,Resale,1,8550000
+Apartment,Ready_to_move,"Abhimanyu Apartments, Vasundhara Enclave",4,1350,,4,Semi-Furnished,Resale,1,10500000
+Apartment,Ready_to_move,"Fancy Apartments, Vasundhara Enclave",3,1000,,2,Furnished,Resale,2,12000000
+Apartment,Ready_to_move,"Shantidoot Apartment, Vasundhara Enclave",3,1400,,2,Unfurnished,Resale,1,11000000
+Apartment,Ready_to_move,Vasundhara Enclave,3,975,,2,Semi-Furnished,Resale,1,12000000
+Apartment,Ready_to_move,"Mangal Apartment, Vasundhara Enclave",2,900,,2,Unfurnished,Resale,114,9000000
+Apartment,Ready_to_move,Vasundhara Enclave,2,1100,,2,Semi-Furnished,Resale,114,10000000
+Apartment,Ready_to_move,Vasundhara Enclave,2,950,,2,Unfurnished,Resale,114,8100000
+Apartment,Ready_to_move,Vasundhara Enclave,3,1300,,3,Furnished,Resale,1,9200000
+Apartment,Ready_to_move,Vasundhara Enclave,3,1459,,3,Semi-Furnished,Resale,1,14200000
+Apartment,Ready_to_move,"Satyam Apartment, Vasundhara Enclave",2,1000,,2,Semi-Furnished,Resale,1,7500000
+Apartment,Ready_to_move,"Samrat Apartment, Vasundhara Enclave",2,1100,,2,Semi-Furnished,Resale,1,9500000
+Apartment,Ready_to_move,"Satyam Apartment, Vasundhara Enclave",3,1450,9655,2,Furnished,Resale,1,14000000
+Apartment,Ready_to_move,"Abhimanyu Apartments, Vasundhara Enclave",3,1450,9655,3,Semi-Furnished,Resale,1,11600000
+Apartment,Ready_to_move,Vasundhara Enclave,3,1150,9655,3,Semi-Furnished,Resale,1,12000000
+Apartment,Ready_to_move,Vasundhara Enclave,2,780,9655,2,Semi-Furnished,Resale,1,7500000
+Apartment,Ready_to_move,"Anekant Apartment, Vasundhara Enclave",3,1300,9655,2,Semi-Furnished,Resale,2,9800000
+Apartment,Ready_to_move,"New Delhi Apartment, Vasundhara Enclave",3,1350,9655,3,Semi-Furnished,Resale,1,12000000
+Apartment,Ready_to_move,"Mahesh Apartment, Vasundhara Enclave",3,1200,9655,2,Semi-Furnished,Resale,1,12500000
+Apartment,Ready_to_move,"Pawittra Apartment, Vasundhara Enclave",3,1460,9655,3,Semi-Furnished,Resale,1,16500000
+Apartment,Ready_to_move,Vasundhara Enclave,3,1460,9655,3,Unfurnished,Resale,1,12000000
+Apartment,Ready_to_move,Vasundhara Enclave,2,1100,9655,2,Unfurnished,Resale,1,7200000
+Apartment,Ready_to_move,"Capital Apartment, Vasundhara Enclave",3,1500,10000,3,Furnished,Resale,2,15000000
+Apartment,Ready_to_move,"Hindon Apartment, Vasundhara Enclave",2,1050,10000,2,Semi-Furnished,Resale,1,10000000
+Apartment,Ready_to_move,"Gobind Apartment, Vasundhara Enclave",3,1350,10000,3,Semi-Furnished,Resale,1,11000000
+Apartment,Almost_ready,"Godrej South Estate, Okhla",2,1500,16466,2,Furnished,New_Property,2,24700000
+Apartment,Almost_ready,"Godrej South Estate, Okhla",2,976,25512,2,Furnished,New_Property,2,24900000
+Builder_Floor,Ready_to_move,"Abul Fazal Enclave Part 1, Okhla",2,540,25512,1,Semi-Furnished,New_Property,1,3600000
+Builder_Floor,Ready_to_move,"Batla House, Okhla",1,450,25512,1,Semi-Furnished,New_Property,1,1700000
+Apartment,Ready_to_move,"Sukhdev Vihar, Okhla",2,900,25512,2,Unfurnished,Resale,1,11000000
+Builder_Floor,Ready_to_move,"Sukhdev Vihar, Okhla",4,2500,30000,4,Semi-Furnished,Resale,2,75000000
+Apartment,Almost_ready,"Godrej South Estate, Okhla Phase 1",2,979.5149,30000,2,Unfurnished,New_Property,1,24800000
+Apartment,Almost_ready,"Godrej South Estate, Okhla Phase 1",2,945,30000,2,Semi-Furnished,New_Property,1,24900000
+Apartment,Almost_ready,"Godrej South Estate, Okhla Phase 1",2,976,30000,2,Unfurnished,New_Property,2,24900000
+Apartment,Almost_ready,"Godrej South Estate, Okhla",2,1531,16917,2,Unfurnished,New_Property,2,25900000
+Builder_Floor,Ready_to_move,"Sukhdev Vihar, Okhla",2,1000,16917,2,Unfurnished,Resale,2,11700000
+Apartment,Ready_to_move,"Sukhdev Vihar, Okhla",3,750,16917,2,Furnished,Resale,2,13500000
+Builder_Floor,Ready_to_move,"Abul Fazal Enclave Part-II, Okhla",3,900,16917,2,Furnished,Resale,1,5500000
+Apartment,Almost_ready,"Godrej South Estate, Okhla",2,1512,19841,2,Unfurnished,New_Property,1,30000000
+Apartment,Ready_to_move,"Abul Fazal Enclave Part 1, Okhla",3,35,19841,2,Semi-Furnished,Resale,2,4950000
+Apartment,Ready_to_move,"Sukhdev Vihar, Okhla",3,1500,19841,2,Semi-Furnished,Resale,1,16000000
+Apartment,Ready_to_move,"Sukhdev Vihar, Okhla",4,2907,10320,4,Semi-Furnished,Resale,1,30000000
+Builder_Floor,Ready_to_move,"Sukhdev Vihar, Okhla",4,2210,10320,3,Semi-Furnished,Resale,1,41000000
+Builder_Floor,Ready_to_move,"Abul Fazal Enclave Part-II, Okhla",2,750,10320,2,Semi-Furnished,Resale,1,3800000
+Apartment,Almost_ready,"Godrej South Estate, Okhla Phase 1",4,2518.7526,10320,5,Unfurnished,New_Property,2,68900000
+Apartment,Ready_to_move,"Jamia Nagar, Okhla",2,588,10320,2,Unfurnished,New_Property,2,1800000
+Builder_Floor,Ready_to_move,"Zakir Nagar, New Friends Colony",2,540,2778,1,Unfurnished,Resale,2,1500000
+Apartment,Ready_to_move,"Sukhdev Vihar, Okhla",3,1100,2778,3,Semi-Furnished,Resale,2,12500000
+Apartment,Ready_to_move,"Batla House, Okhla",2,550,2778,1,Semi-Furnished,Resale,2,1600000
+Builder_Floor,Ready_to_move,"Batla House Project, Batla House, Okhla",3,750,2778,2,Semi-Furnished,Resale,1,2400000
+Builder_Floor,Ready_to_move,"Abul Fazal Enclave Part 1, Okhla",3,1260,5556,2,Semi-Furnished,Resale,1,7000000
+Builder_Floor,Ready_to_move,"Abul Fazal Enclave Part-II, Okhla",2,675,5556,2,Unfurnished,Resale,1,3100000
+Apartment,Ready_to_move,"Sukhdev Vihar, Okhla",2,810,5556,2,Semi-Furnished,Resale,1,14500000
+Builder_Floor,Ready_to_move,"Sukhdev Vihar, Okhla",4,3150,5556,5,Semi-Furnished,New_Property,3,61500000
+Builder_Floor,Ready_to_move,"Sukhdev Vihar, Okhla",4,2000,5556,4,Semi-Furnished,Resale,1,27500000
+Apartment,Almost_ready,"The Amaryllis, Karol Bagh",3,1775,14366,3,Semi-Furnished,New_Property,1,25500000
+Apartment,Almost_ready,"The Amaryllis, Karol Bagh",3,1135,14366,3,Furnished,Resale,2,25000000
+Apartment,Almost_ready,"The Amaryllis, Karol Bagh",2,1252,14776,2,Semi-Furnished,New_Property,1,18500000
+Apartment,Almost_ready,"The Amaryllis, Karol Bagh",4,2000,14776,4,Semi-Furnished,New_Property,1,39700000
+Apartment,Ready_to_move,"Dev Nagar, Karol Bagh",4,530,14776,1,Semi-Furnished,Resale,1,6800000
+Builder_Floor,Ready_to_move,"Beadon Pura, Karol Bagh ",3,1332,14776,2,Semi-Furnished,Resale,1,6540000
+Apartment,Ready_to_move,"The Amaryllis, Karol Bagh",3,1017,14776,3,Semi-Furnished,New_Property,1,22000000
+Apartment,Almost_ready,"The Amaryllis, Karol Bagh",3,1775,14366,3,Semi-Furnished,New_Property,1,25500000
+Apartment,Ready_to_move,"The Amaryllis, Karol Bagh",2,987,14366,2,Semi-Furnished,New_Property,1,17000000
+Apartment,Almost_ready,"The Amaryllis, Karol Bagh",3,1912,14382,3,Semi-Furnished,New_Property,1,27500000
+Apartment,Almost_ready,"The Amaryllis, Karol Bagh",5,5236,14092,7,Unfurnished,New_Property,3,73700000
+Apartment,Almost_ready,"The Amaryllis, Karol Bagh",4,2805,14092,4,Unfurnished,Resale,2,52300000
+Apartment,Ready_to_move,"DDA Mig Flat, Prasad Nagar, Karol Bagh",3,1500,14092,3,Unfurnished,Resale,2,16000000
+Builder_Floor,Ready_to_move,Karol Bagh,3,1280,14092,3,Furnished,Resale,2,15000000
+Apartment,Almost_ready,"The Amaryllis, Karol Bagh",3,1775,14366,3,Semi-Furnished,New_Property,1,25500000
+Builder_Floor,Ready_to_move,Karol Bagh,2,675,14815,2,Semi-Furnished,Resale,1,10000000
+Apartment,Ready_to_move,"Prasad Nagar, Karol Bagh",2,576,14815,2,Unfurnished,Resale,1,5000000
+Builder_Floor,Ready_to_move,Karol Bagh,3,1206,16584,3,Semi-Furnished,Resale,1,20000000
+Apartment,Ready_to_move,"DDA MIG Flats Prasad Nagar Phase 2, Prasad Nagar, Karol Bagh",2,1143,125984,2,Unfurnished,Resale,1,16000000
+Builder_Floor,Ready_to_move,Karol Bagh,1,345,125984,1,Semi-Furnished,Resale,1,5500000
+Builder_Floor,Ready_to_move,"Dev Nagar, Karol Bagh",2,720,9722,1,Semi-Furnished,Resale,1,7000000
+Builder_Floor,Ready_to_move,Karol Bagh,2,468,8761,2,Unfurnished,Resale,1,4100000
+Builder_Floor,Ready_to_move,Karol Bagh ,3,1600,8761,3,Semi-Furnished,New_Property,1,24000000
+Apartment,Ready_to_move,"DDA MIG Flats Prasad Nagar Phase 2, Prasad Nagar, Karol Bagh",2,950,8761,2,Furnished,Resale,1,12500000
+Apartment,Ready_to_move,"Dev Nagar, Karol Bagh",2,535,7290,1,Furnished,New_Property,1,3900000
+Builder_Floor,Ready_to_move,Karol Bagh,3,1200,7290,2,Semi-Furnished,Resale,1,14500000
+Apartment,Almost_ready,"The Amaryllis, Karol Bagh",3,1501,13324,2,Semi-Furnished,Resale,1,20000000
+Apartment,Almost_ready,"The Amaryllis, Karol Bagh",3,1135,13324,3,Furnished,Resale,2,24500000
+Apartment,Almost_ready,"The Amaryllis, Karol Bagh",3,1200,13324,2,Semi-Furnished,Resale,1,20900000
+Apartment,Ready_to_move,"The Amaryllis, Karol Bagh",3,2200,13324,3,Semi-Furnished,New_Property,1,43100000
+Apartment,Ready_to_move,"DLF Capital Greens, Moti Nagar, Kirti Nagar",3,1240,,3,Unfurnished,Resale,1,18000000
+Apartment,Ready_to_move,"DLF Capital Greens, New Moti Nagar, Kirti Nagar",4,3002,,5,Semi-Furnished,Resale,2,50000000
+Apartment,Ready_to_move,"New Moti Nagar, Kirti Nagar",3,1350,,2,Unfurnished,Resale,1,18500000
+Apartment,Ready_to_move,"New Moti Nagar, Kirti Nagar",4,2300,,5,Semi-Furnished,New_Property,3,46500000
+Apartment,Ready_to_move,"New Moti Nagar, Kirti Nagar",3,1429,,3,Unfurnished,Resale,2,17500000
+Apartment,Ready_to_move,"New Moti Nagar, Kirti Nagar",4,2430,,5,Semi-Furnished,Resale,2,42500000
+Apartment,Ready_to_move,"DLF Capital Greens, New Moti Nagar, Kirti Nagar",3,1450,,3,Semi-Furnished,New_Property,2,15500000
+Apartment,Ready_to_move,"DLF Capital Greens, New Moti Nagar, Kirti Nagar",2,1250,,2,Furnished,Resale,2,15000000
+Apartment,Ready_to_move,"DLF Capital Greens, New Moti Nagar, Kirti Nagar",4,2800,14285,4,Unfurnished,Resale,2,40000000
+Apartment,Ready_to_move,"DLF Capital Greens, New Moti Nagar, Kirti Nagar",3,1646,12151,3,Unfurnished,Resale,1,20000000
+Apartment,Ready_to_move,"New Moti Nagar, Kirti Nagar",2,900,12151,2,Semi-Furnished,Resale,1,6700000
+Apartment,Ready_to_move,"DLF Capital Greens, New Moti Nagar, Kirti Nagar",3,1250,12151,2,Semi-Furnished,Resale,1,16000000
+Builder_Floor,Ready_to_move,"New Moti Nagar, Kirti Nagar",3,900,8889,2,Unfurnished,Resale,1,8000000
+Apartment,Ready_to_move,"DLF Capital Greens, New Moti Nagar, Kirti Nagar",3,1590,8889,2,Unfurnished,New_Property,2,25000000
+Apartment,Ready_to_move,"New Moti Nagar, Kirti Nagar",3,990,8889,2,Unfurnished,Resale,2,25000000
+Apartment,Ready_to_move,"DLF Capital Greens, New Moti Nagar, Kirti Nagar",4,2282,8889,5,Unfurnished,Resale,2,37500000
+Apartment,Ready_to_move,"DLF Capital Greens, New Moti Nagar, Kirti Nagar",3,1260,8889,3,Semi-Furnished,Resale,1,25000000
+Apartment,Ready_to_move,"New Moti Nagar, Kirti Nagar",3,1457,8889,3,Unfurnished,Resale,1,23000000
+Apartment,Ready_to_move,"New Moti Nagar, Kirti Nagar",3,1400,8889,2,Semi-Furnished,Resale,2,17500000
+Apartment,Ready_to_move,"DLF Capital Greens, Moti Nagar, Kirti Nagar ( 1 km from New Moti Nagar, Kirti Nagar)",4,2175,8889,4,Unfurnished,Resale,1,44000000
+Apartment,Ready_to_move,"DLF Capital Greens, New Moti Nagar, Kirti Nagar",3,1450,8889,3,Semi-Furnished,New_Property,2,15000000
+Apartment,Ready_to_move,"DLF Capital Greens, New Moti Nagar, Kirti Nagar",4,2800,15178,5,Semi-Furnished,Resale,2,42500000
+Builder_Floor,Ready_to_move,"New Moti Nagar, Kirti Nagar",2,861.112,5806,2,Furnished,Resale,2,5000000
+Apartment,Ready_to_move,"DLF Capital Greens, New Moti Nagar, Kirti Nagar",4,2282,5806,5,Unfurnished,Resale,2,38000000
+Apartment,Ready_to_move,"DLF Capital Greens, New Moti Nagar, Kirti Nagar",3,1753,10838,3,Unfurnished,Resale,1,19000000
+Apartment,Ready_to_move,"New Moti Nagar, Kirti Nagar",4,2659,10838,5,Unfurnished,Resale,3,43500000
+Apartment,Ready_to_move,"New Moti Nagar, Kirti Nagar",3,1550,10838,2,Unfurnished,Resale,3,19500000
+Apartment,Ready_to_move,"DLF Capital Greens, New Moti Nagar, Kirti Nagar",3,1470,10838,2,Semi-Furnished,New_Property,2,14200000
+Apartment,Ready_to_move,"New Moti Nagar, Kirti Nagar",3,702,10838,2,Semi-Furnished,Resale,2,14200000
+Apartment,Ready_to_move,"New Moti Nagar, Kirti Nagar",2,1138,10838,2,Semi-Furnished,New_Property,2,13500000
+Builder_Floor,Ready_to_move,Sheikh Sarai Phase 1,3,1600,,3,Semi-Furnished,New_Property,2,21000000
+Builder_Floor,Ready_to_move,Sheikh Sarai Phase 1,3,1600,,3,Semi-Furnished,Resale,1,22500000
+Builder_Floor,Ready_to_move,Sheikh Sarai,2,1250,,4,Semi-Furnished,Resale,1,19000000
+Builder_Floor,Ready_to_move,Sheikh Sarai Phase 2,3,810,,2,Semi-Furnished,Resale,1,7500000
+Builder_Floor,Ready_to_move,"Savitri Nagar Village, Sheikh Sarai",2,585,,2,Semi-Furnished,Resale,1,4000000
+Builder_Floor,Ready_to_move,"Savitri Nagar Village, Sheikh Sarai",3,1700,,3,Unfurnished,Resale,2,8000000
+Apartment,Ready_to_move,Sheikh Sarai Phase 1,3,1800,10556,4,Semi-Furnished,Resale,2,19000000
+Apartment,Ready_to_move,Sheikh Sarai Phase 2,1,600,10556,1,Unfurnished,New_Property,2,7000000
+Builder_Floor,Ready_to_move,"Panchsheel Vihar, Sheikh Sarai",3,1250,10556,3,Unfurnished,New_Property,1,5800000
+Builder_Floor,Ready_to_move,"Savitri Nagar Village, Sheikh Sarai",3,600,10556,2,Semi-Furnished,Resale,1,8000000
+Apartment,Ready_to_move,Sheikh Sarai Phase 1,3,1600,10556,4,Unfurnished,Resale,1,18800000
+Builder_Floor,Ready_to_move,"Panchsheel Vihar, Sheikh Sarai",3,1100,10556,2,Semi-Furnished,New_Property,1,6000000
+Apartment,Ready_to_move,"Panchsheel Vihar, Sheikh Sarai",1,450,10556,1,Unfurnished,New_Property,1,2200000
+Builder_Floor,Ready_to_move,"Savitri Nagar Village, Sheikh Sarai",3,855,10556,2,Semi-Furnished,Resale,1,6500000
+Apartment,Ready_to_move,Sheikh Sarai Phase 1,3,1291.668,10556,2,Unfurnished,Resale,1,23500000
+Apartment,Ready_to_move,Sheikh Sarai Phase 1,2,1300,12307,2,Semi-Furnished,Resale,2,16000000
+Apartment,Ready_to_move,Sheikh Sarai Phase 1,3,1350,12307,3,Unfurnished,Resale,2,20000000
+Builder_Floor,Ready_to_move,Sheikh Sarai Phase 1,2,900,12307,2,Unfurnished,New_Property,2,5500000
+Apartment,Ready_to_move,Sheikh Sarai Phase 1,2,850,15882,2,Semi-Furnished,Resale,1,13500000
+Builder_Floor,Ready_to_move,Sheikh Sarai Phase 1,3,1650,15882,3,Semi-Furnished,Resale,1,22500000
+Apartment,Ready_to_move,"Panchsheel Vihar, Sheikh Sarai",2,650,15882,2,Unfurnished,Resale,1,3800000
+Builder_Floor,Ready_to_move,"Apna Apartments, Savitri Nagar Village, Sheikh Sarai",2,630,65714,2,Semi-Furnished,Resale,1,4600000
+Apartment,Ready_to_move,Sheikh Sarai Phase 1,2,1250,65714,1,Semi-Furnished,Resale,2,17500000
+Builder_Floor,Ready_to_move,"Panchsheel Vihar, Sheikh Sarai",4,1800,65714,3,Furnished,New_Property,2,5500000
+Builder_Floor,Ready_to_move,Sheikh Sarai Phase 1,3,1500,65714,3,Semi-Furnished,Resale,2,22500000
+Apartment,Ready_to_move,Sheikh Sarai Phase 1,2,1100,11363,2,Semi-Furnished,Resale,1,12500000
+Apartment,Ready_to_move,Sheikh Sarai Phase 1,3,1400,13571,2,Semi-Furnished,Resale,2,19000000
+Apartment,Ready_to_move,Sheikh Sarai Phase 1,2,1300,11923,2,Semi-Furnished,Resale,2,15500000
+Apartment,Ready_to_move,Sheikh Sarai Phase 1,2,1100,12272,2,Semi-Furnished,Resale,2,13500000
+Apartment,Ready_to_move,Sheikh Sarai Phase 1,3,1600,13125,3,Semi-Furnished,Resale,2,21000000
+Builder_Floor,Ready_to_move,"Punjabi Bagh Enclave, Punjabi Bagh West",4,2250,,4,Semi-Furnished,New_Property,2,50000000
+Builder_Floor,Ready_to_move,Punjabi Bagh,4,2592,,3,Unfurnished,Resale,2,42500000
+Builder_Floor,Almost_ready,Punjabi Bagh West,4,1800,,4,Unfurnished,New_Property,2,45500000
+Builder_Floor,Ready_to_move,Punjabi Bagh,3,1700,,3,Semi-Furnished,Resale,2,23000000
+Apartment,Ready_to_move,Punjabi Bagh West,3,1640,,3,Unfurnished,Resale,1,12000000
+Apartment,Ready_to_move,Punjabi Bagh West,3,2572,13608,3,Furnished,Resale,4,35000000
+Builder_Floor,Ready_to_move,"Punjabi Bagh Enclave, Shivaji Park, Punjabi Bagh",3,2100,11905,3,Semi-Furnished,Resale,1,25000000
+Builder_Floor,Ready_to_move,"Punjabi Bagh Extension, Punjabi Bagh",3,1620,11905,3,Semi-Furnished,New_Property,1,29000000
+Builder_Floor,Ready_to_move,Punjabi Bagh West,4,2500,11905,4,Semi-Furnished,New_Property,2,80000000
+Apartment,Ready_to_move,Punjabi Bagh West,3,2250,11905,3,Semi-Furnished,Resale,2,20500000
+Apartment,Ready_to_move,"DLF Capitals Phase III, Shivaji Park, Punjabi Bagh",4,2445,11905,4,Semi-Furnished,Resale,1,52500000
+Builder_Floor,Ready_to_move,Punjabi Bagh,4,2250,11905,4,Unfurnished,New_Property,2,37500000
+Apartment,Ready_to_move,"Punjabi Bagh Enclave, Punjabi Bagh West",2,800,11905,2,Semi-Furnished,Resale,2,7500000
+Builder_Floor,Ready_to_move,"Punjabi Bagh Enclave, Punjabi Bagh",3,1450,11905,3,Semi-Furnished,Resale,2,32500000
+Builder_Floor,Ready_to_move,"Punjabi Bagh Extension, Punjabi Bagh",3,1440,11905,3,Unfurnished,Resale,2,24500000
+Builder_Floor,Ready_to_move,Punjabi Bagh West,5,5220,11905,5,Unfurnished,Resale,2,65000000
+Builder_Floor,Ready_to_move,Punjabi Bagh,3,1800,11905,3,Semi-Furnished,New_Property,2,27500000
+Builder_Floor,Almost_ready,Punjabi Bagh West,5,4455,11905,5,Semi-Furnished,New_Property,1,115000000
+Builder_Floor,Almost_ready,"Punjabi Bagh Extension, Punjabi Bagh",3,195,11905,3,Semi-Furnished,New_Property,1,28000000
+Builder_Floor,Ready_to_move,"Punjabi Bagh Extension, Punjabi Bagh",2,807.2925,9909,1,Semi-Furnished,Resale,1,8000000
+Builder_Floor,Ready_to_move,Punjabi Bagh West,4,3500,9909,4,Furnished,New_Property,3,75100000
+Apartment,Ready_to_move,"Punjabi Bagh Enclave, Madipur, Punjabi Bagh",2,1000,7800,2,Semi-Furnished,Resale,1,7800000
+Builder_Floor,Ready_to_move,"Bhagwan Das Nagar, Punjabi Bagh",2,900,16667,2,Semi-Furnished,Resale,1,15000000
+Builder_Floor,Ready_to_move,Punjabi Bagh East,3,1800,15278,3,Furnished,Resale,1,27500000
+Builder_Floor,Ready_to_move,Punjabi Bagh West,3,17010,15278,3,Semi-Furnished,Resale,2,25000000
+Builder_Floor,Ready_to_move,Punjabi Bagh East,4,2340,15278,4,Semi-Furnished,Resale,1,26000000
+Apartment,Ready_to_move,Punjabi Bagh East,3,1350,15278,3,Unfurnished,Resale,1,23500000
+Builder_Floor,Ready_to_move,"Bhagwan Das Nagar, Punjabi Bagh",3,464,15278,1,Unfurnished,Resale,1,4200000
+Builder_Floor,Ready_to_move,Punjabi Bagh East,2,954,15278,2,Unfurnished,Resale,1,10000000
+Builder_Floor,Ready_to_move,"Pal Mohan Apartments, Punjabi Bagh",2,1155,15278,2,Semi-Furnished,Resale,1,18500000
+Apartment,Ready_to_move,Alaknanda,2,700,,2,Unfurnished,Resale,,16500000
+Apartment,Ready_to_move,"Shivalik Apartments, Alaknanda",2,980,,2,Semi-Furnished,Resale,2,13800000
+Apartment,Ready_to_move,"Narmada Apartment, Alaknanda",3,1350,,3,Semi-Furnished,Resale,2,21000000
+Apartment,Ready_to_move,"Gangotri Enclave, Alaknanda",3,1800,,3,Semi-Furnished,Resale,2,22500000
+Apartment,Ready_to_move,"Aravali Apartments, Alaknanda",2,968.751,,2,Semi-Furnished,Resale,2,15000000
+Apartment,Ready_to_move,"Narmada Apartment, Alaknanda",3,1250,,3,Semi-Furnished,New_Property,2,20000000
+Apartment,Ready_to_move,"Aravali Apartments, Alaknanda",3,1800,,3,Furnished,New_Property,2,20000000
+Builder_Floor,Ready_to_move,"Shivalik Apartments, Alaknanda",3,1400,,2,Semi-Furnished,Resale,2,26000000
+Apartment,Ready_to_move,"Narmada Apartment, Alaknanda",3,1000,,3,Semi-Furnished,Resale,2,19500000
+Apartment,Ready_to_move,"Tara Apartment, Alaknanda",4,1800,,2,Semi-Furnished,Resale,1,21500000
+Apartment,Ready_to_move,Alaknanda,3,1500,,3,Unfurnished,New_Property,1,26500000
+Apartment,Ready_to_move,"Narmada Apartment, Alaknanda",3,1600,12500,3,Semi-Furnished,Resale,2,20000000
+Apartment,Ready_to_move,"Narmada Apartment, Alaknanda ",3,1400,12500,3,Furnished,Resale,1,18000000
+Apartment,Ready_to_move,Alaknanda,3,1400,12500,2,Unfurnished,Resale,1,19000000
+Builder_Floor,Ready_to_move,Greater Kailash 4 Nri Colony,4,2700,12500,4,Unfurnished,Resale,2,36500000
+Apartment,Ready_to_move,Alaknanda,2,1100,12500,2,Unfurnished,Resale,2,15000000
+Apartment,Ready_to_move,Alaknanda,2,1200,12500,2,Semi-Furnished,Resale,2,17500000
+Apartment,Ready_to_move,Alaknanda,2,1400,12500,2,Semi-Furnished,Resale,2,14000000
+Apartment,Ready_to_move,"Project Gangotri Enclave, Alaknanda",3,1500,12500,3,Semi-Furnished,Resale,2,21000000
+Apartment,Ready_to_move,Alaknanda,3,1320,12500,2,Unfurnished,Resale,2,15600000
+Apartment,Ready_to_move,"Project Gangotri Enclave, Gangotri Enclave, Alaknanda",3,1300,12500,3,Unfurnished,Resale,2,19000000
+Apartment,Ready_to_move,"Narmada Apartment, Alaknanda",2,1150,12500,2,Unfurnished,Resale,1,16500000
+Apartment,Ready_to_move,Alaknanda,3,1440,12500,3,Unfurnished,Resale,1,19000000
+Apartment,Ready_to_move,"Nilgiri Apartment, Alaknanda",2,1400,12500,2,Unfurnished,Resale,1,16500000
+Builder_Floor,Ready_to_move,Alaknanda,1,450,12500,1,Semi-Furnished,Resale,1,3000000
+Apartment,Ready_to_move,"Yamuna Apartment, Alaknanda",2,1300,11538,2,Semi-Furnished,Resale,1,15000000
+Apartment,Ready_to_move,"Nilgiri Apartment, Alaknanda",2,1200,11538,2,Unfurnished,Resale,1,14300000
+Apartment,Ready_to_move,"Nilgiri Apartment, Alaknanda",3,1300,11538,2,Unfurnished,Resale,1,18500000
+Apartment,Ready_to_move,"Tara Apartment, Alaknanda ",3,1400,11538,3,Furnished,Resale,1,19000000
+Apartment,Ready_to_move,Alaknanda,3,1400,11538,3,Semi-Furnished,Resale,1,19000000
+Builder_Floor,Ready_to_move,"Govindpuri Extension, Kalkaji",2,500,,2,Semi-Furnished,New_Property,1,3300000
+Builder_Floor,Ready_to_move,"Govindpuri Extension, Kalkaji",2,700,,2,Semi-Furnished,New_Property,1,3800000
+Builder_Floor,Ready_to_move,"Govindpuri Extension, Kalkaji",3,900,,3,Semi-Furnished,New_Property,1,7000000
+Builder_Floor,Ready_to_move,Kalkaji,3,1260,,3,Semi-Furnished,Resale,2,16500000
+Apartment,Ready_to_move,"Govindpuri Extension, Kalkaji",3,950,,2,Semi-Furnished,New_Property,1,8000000
+Builder_Floor,Ready_to_move,"DDA LIG Flat, Kalkaji",1,405,,1,Unfurnished,Resale,1,5600000
+Builder_Floor,Ready_to_move,Kalkaji,2,1800,,2,Furnished,Resale,1,21000000
+Builder_Floor,Ready_to_move,Kalkaji,3,1300,,3,Semi-Furnished,Resale,2,21000000
+Apartment,Ready_to_move,"Govindpuri Extension, Kalkaji",3,1000,,3,Semi-Furnished,New_Property,2,8600000
+Apartment,Ready_to_move,"Giri Nagar, KalkaJi",3,900,,2,Semi-Furnished,Resale,2,6600000
+Builder_Floor,Ready_to_move,"Govindpuri Extension, Kalkaji",3,1800,,3,Semi-Furnished,Resale,2,14000000
+Builder_Floor,Ready_to_move,"Govindpuri Extension, Kalkaji",2,720,,2,Unfurnished,Resale,2,4700000
+Apartment,Ready_to_move,"Rishi Apartment, Kalkaji",3,1485,,3,Unfurnished,Resale,1,30000000
+Builder_Floor,Ready_to_move,Kalkaji,3,1600,,3,Semi-Furnished,Resale,2,26000000
+Apartment,Ready_to_move,"Deshbandhu Apartments, Kalkaji",2,1200,,2,Furnished,Resale,2,18500000
+Apartment,Ready_to_move,"Dda Janta Flats, Kalkaji",2,900,,2,Semi-Furnished,Resale,2,6500000
+Apartment,Ready_to_move,Kalkaji,2,900,,2,Unfurnished,Resale,2,15000000
+Builder_Floor,Ready_to_move,Kalkaji ,2,800,10000,2,Semi-Furnished,Resale,1,8000000
+Apartment,Ready_to_move,"Deshbandhu Apartments, Kalkaji",2,1150,10000,3,Semi-Furnished,Resale,2,16100000
+Builder_Floor,Ready_to_move,"Govindpuri Extension, Kalkaji",3,900,10000,3,Semi-Furnished,New_Property,1,6800000
+Apartment,Ready_to_move,Kalkaji Extention,3,1070,10000,2,Furnished,Resale,1,6800000
+Apartment,Ready_to_move,Kalkaji Extention,2,1050,10000,2,Unfurnished,Resale,1,9000000
+Builder_Floor,Ready_to_move,Kalkaji ,2,1000,18000,2,Semi-Furnished,Resale,1,18000000
+Builder_Floor,Ready_to_move,"Mandakini Enclave Project, Kalkaji",3,1550,18000,3,Unfurnished,Resale,2,27500000
+Apartment,Ready_to_move,"Deshbandhu Apartments, Kalkaji ",3,1300,18000,2,Unfurnished,Resale,1,13500000
+Builder_Floor,Ready_to_move,Kalkaji,2,810,18000,2,Semi-Furnished,New_Property,1,14000000
+Builder_Floor,Ready_to_move,Kalkaji,2,900,18000,2,Furnished,Resale,1,9000000
+Apartment,Ready_to_move,"Deshbandhu Apartments, Kalkaji",2,1200,18000,2,Unfurnished,Resale,1,16000000
+Apartment,Ready_to_move,Kalkaji Extention,2,1000,18000,3,Semi-Furnished,Resale,1,11000000
+Builder_Floor,Almost_ready,"Govindpuri Extension, Kalkaji",2,720,18000,2,Unfurnished,New_Property,1,5500000
+Builder_Floor,Ready_to_move,Hauz Khas,3,2520,,3,Unfurnished,New_Property,,47500000
+Builder_Floor,Ready_to_move,Hauz Khas,3,1700,,4,Unfurnished,New_Property,2,45000000
+Builder_Floor,Ready_to_move,Hauz Khas,3,1800,24166,3,Semi-Furnished,New_Property,2,43500000
+Apartment,Ready_to_move,"Hauz Khas Apartment, Hauz Khas Enclave, Hauz Khas",5,6000,30000,5,Semi-Furnished,New_Property,3,180000000
+Builder_Floor,Ready_to_move,Hauz Khas,4,1800,30000,4,Semi-Furnished,New_Property,2,80000000
+Apartment,Ready_to_move,"Sarva Priya Apartment, Hauz Khas",3,2000,30000,3,Unfurnished,Resale,2,37500000
+Builder_Floor,Almost_ready,Hauz Khas,4,2066,30000,4,Unfurnished,New_Property,2,60000000
+Builder_Floor,Ready_to_move,"Hauz Khas Enclave, Hauz Khas",3,2050,30000,3,Semi-Furnished,New_Property,2,71000000
+Apartment,Ready_to_move,"Safdarjung Development Area, Hauz Khas",3,1100,30000,3,Unfurnished,Resale,2,18500000
+Builder_Floor,Ready_to_move,Hauz Khas,4,4500,30000,4,Semi-Furnished,New_Property,2,70000000
+Builder_Floor,Ready_to_move,"Hauz Khas Enclave, Hauz Khas",4,4500,170000,5,Semi-Furnished,New_Property,2,85000000
+Builder_Floor,Ready_to_move,"Mayfair garden, Hauz Khas",4,6500,170000,5,Unfurnished,New_Property,3,190000000
+Apartment,Ready_to_move,"Orchid Metropolis, Hauz Khas",4,4350,170000,6,Semi-Furnished,New_Property,2,135000000
+Builder_Floor,Ready_to_move,Hauz Khas,3,1750,170000,3,Unfurnished,Resale,2,35000000
+Builder_Floor,Almost_ready,"Safdarjung Development Area, Hauz Khas",4,3600,18055,4,Semi-Furnished,New_Property,2,65000000
+Builder_Floor,Ready_to_move,"Hauz Khas Enclave, Hauz Khas",2,1200,18055,2,Furnished,Resale,1,27500000
+Builder_Floor,Ready_to_move,Hauz Khas,3,1500,18055,4,Unfurnished,Resale,2,45000000
+Builder_Floor,Ready_to_move,"Hauz Khas Enclave, Hauz Khas",4,2250,18055,4,Unfurnished,New_Property,3,100000000
+Builder_Floor,Ready_to_move,Hauz Khas,3,1800,18055,4,Semi-Furnished,New_Property,2,47000000
+Builder_Floor,Ready_to_move,Hauz Khas,3,1600,18055,4,Semi-Furnished,Resale,2,27500000
+Builder_Floor,Ready_to_move,Hauz Khas,4,2800,25000,5,Semi-Furnished,New_Property,3,70000000
+Apartment,Ready_to_move,"Sarva Priya Apartment, Hauz Khas ",3,1700,25000,3,Semi-Furnished,Resale,1,36500000
+Builder_Floor,Ready_to_move,"Hauz Khas Enclave, Hauz Khas",4,2400,25000,5,Unfurnished,Resale,1,65000000
+Apartment,Almost_ready,"Sarva Priya Apartment, Hauz Khas",3,1980,17677,4,Unfurnished,New_Property,1,35000000
+Builder_Floor,Ready_to_move,"Hauz Khas Enclave, Hauz Khas",4,2100,17677,5,Semi-Furnished,New_Property,1,56000000
+Builder_Floor,Ready_to_move,"Hauz Khas Enclave, Hauz Khas",4,5400,17677,4,Unfurnished,Resale,2,110000000
+Builder_Floor,Ready_to_move,"Safdarjung Development Area, Hauz Khas",3,1250,17677,3,Semi-Furnished,Resale,1,24000000
+Builder_Floor,Ready_to_move,Hauz Khas,4,2300,17677,4,Semi-Furnished,New_Property,1,102500000
+Builder_Floor,Ready_to_move,"Hauz Khas Enclave, Hauz Khas",4,2700,37037,4,Semi-Furnished,New_Property,2,100000000
+Builder_Floor,Ready_to_move,"Safdarjung Development Area, Hauz Khas",3,1450,37037,3,Semi-Furnished,New_Property,1,45000000
+Builder_Floor,Ready_to_move,Chittaranjan Park,3,2097,,3,Unfurnished,Resale,,29000000
+Builder_Floor,Almost_ready,"Arya Chittaranjan Park, Chittaranjan Park",3,1250,,3,Semi-Furnished,New_Property,1,25500000
+Builder_Floor,Ready_to_move,Chittaranjan Park,3,1600,20938,3,Semi-Furnished,New_Property,2,33500000
+Builder_Floor,Ready_to_move,Chittaranjan Park,4,2600,20938,5,Semi-Furnished,New_Property,3,62500000
+Builder_Floor,Ready_to_move,Chittaranjan Park,3,1700,20938,3,Semi-Furnished,New_Property,2,47500000
+Builder_Floor,Ready_to_move,Chittaranjan Park,3,1116,20938,3,Semi-Furnished,Resale,1,14700000
+Builder_Floor,Ready_to_move,Chittaranjan Park,2,1070,20938,3,Semi-Furnished,New_Property,1,18000000
+Builder_Floor,Ready_to_move,Chittaranjan Park,3,1200,20938,3,Semi-Furnished,New_Property,1,22500000
+Builder_Floor,Ready_to_move,Chittaranjan Park,3,1200,18333,3,Unfurnished,New_Property,1,22000000
+Builder_Floor,Ready_to_move,Chittaranjan Park ,3,1200,18333,3,Semi-Furnished,New_Property,1,22200000
+Builder_Floor,Ready_to_move,Chittaranjan Park,3,1450,18333,3,Semi-Furnished,Resale,1,22500000
+Apartment,Ready_to_move,Chittaranjan Park,2,1000,18333,2,Semi-Furnished,Resale,1,7500000
+Builder_Floor,Ready_to_move,Chittaranjan Park ,4,2430,18333,4,Furnished,Resale,5,30000000
+Apartment,Ready_to_move,Chittaranjan Park,2,945,6878,1,Unfurnished,Resale,5,6500000
+Builder_Floor,Ready_to_move,Chittaranjan Park,3,1650,6878,3,Unfurnished,New_Property,5,35000000
+Builder_Floor,Ready_to_move,"Nehru Enclave, Kalkaji",3,1350,6878,2,Semi-Furnished,Resale,1,17500000
+Builder_Floor,Ready_to_move,Chittaranjan Park,4,2625,6878,5,Semi-Furnished,New_Property,2,60000000
+Builder_Floor,Ready_to_move,Chittaranjan Park,4,1800,6878,4,Semi-Furnished,New_Property,2,40000000
+Builder_Floor,Ready_to_move,Chittaranjan Park,3,125,6878,3,Semi-Furnished,New_Property,2,11500000
+Builder_Floor,Ready_to_move,Chittaranjan Park,3,1440,6878,3,Semi-Furnished,New_Property,2,22500000
+Builder_Floor,Ready_to_move,Chittaranjan Park,3,1900,6878,4,Semi-Furnished,New_Property,2,28500000
+Builder_Floor,Ready_to_move,Chittaranjan Park,3,1800,6878,3,Semi-Furnished,Resale,2,29000000
+Builder_Floor,Ready_to_move,Chittaranjan Park,3,1200,12916,2,Semi-Furnished,Resale,1,15500000
+Builder_Floor,Ready_to_move,"Nehru Enclave, Kalkaji",3,1800,12916,3,Semi-Furnished,Resale,1,26000000
+Builder_Floor,Ready_to_move,Chittaranjan Park,3,1200,12916,3,Semi-Furnished,Resale,1,16500000
+Builder_Floor,Ready_to_move,Chittaranjan Park,4,4118,12916,5,Unfurnished,New_Property,3,55000000
+Builder_Floor,Ready_to_move,Chittaranjan Park,3,1050,12916,2,Semi-Furnished,Resale,3,12500000
+Builder_Floor,Ready_to_move,Chittaranjan Park,3,875,12916,3,Semi-Furnished,New_Property,3,17500000
+Builder_Floor,Ready_to_move,Chittaranjan Park Block A,2,990,12916,2,Unfurnished,Resale,1,11500000
+Builder_Floor,Ready_to_move,Chittaranjan Park,3,11050,12916,3,Unfurnished,New_Property,1,18500000
