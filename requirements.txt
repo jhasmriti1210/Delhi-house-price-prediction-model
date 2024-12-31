@@ -1,0 +1,5 @@
+streamlit==1.41.1
+scikit-learn
+numpy
+pandas
+# Add other dependencies as needed
